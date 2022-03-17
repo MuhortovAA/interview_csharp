@@ -1,0 +1,17 @@
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\EF_App\bin\Debug\EF_App.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\EF_App\bin\Debug\EF_App.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\EF_App\bin\Debug\EF_App.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\EF_App\bin\Debug\EntityFramework.dll
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\EF_App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\EF_App\bin\Debug\EntityFramework.xml
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\EF_App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\EF_App\obj\Debug\EF_App.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\EF_App\obj\Debug\EF_App.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\EF_App\obj\Debug\EF_App.csproj.CopyComplete
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\EF_App\obj\Debug\EF_App.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\EF_App\obj\Debug\EF_App.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\EF_App\obj\Debug\EF_App.Migrations.list_department.resources
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\EF_App\obj\Debug\EF_App.csproj.GenerateResource.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\EF_App\obj\Debug\EF_App.Migrations.list_department2.resources
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\EF_App\obj\Debug\EF_App.Migrations.new_data.resources
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\EF_App\obj\Debug\EF_App.Migrations.new_data_1.resources
