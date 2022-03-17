@@ -5,3 +5,14 @@ C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\DI_App\obj\Debug\DI_
 C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\DI_App\obj\Debug\DI_App.csproj.CoreCompileInputs.cache
 C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\DI_App\obj\Debug\DI_App.exe
 C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\DI_App\obj\Debug\DI_App.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\DI_App\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\DI_App\bin\Debug\System.Buffers.dll
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\DI_App\bin\Debug\System.Memory.dll
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\DI_App\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\DI_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\DI_App\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\DI_App\bin\Debug\System.Buffers.xml
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\DI_App\bin\Debug\System.Memory.xml
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\DI_App\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\DI_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\DI_App\obj\Debug\DI_App.csproj.CopyComplete
