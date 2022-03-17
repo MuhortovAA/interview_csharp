@@ -1,0 +1,15 @@
+C:\Users\b00001174\source\repos\Project1\BraceApp\bin\Debug\BraceApp.exe.config
+C:\Users\b00001174\source\repos\Project1\BraceApp\bin\Debug\BraceApp.exe
+C:\Users\b00001174\source\repos\Project1\BraceApp\bin\Debug\BraceApp.pdb
+C:\Users\b00001174\source\repos\Project1\BraceApp\obj\Debug\BraceApp.csproj.AssemblyReference.cache
+C:\Users\b00001174\source\repos\Project1\BraceApp\obj\Debug\BraceApp.csproj.CoreCompileInputs.cache
+C:\Users\b00001174\source\repos\Project1\BraceApp\obj\Debug\BraceApp.exe
+C:\Users\b00001174\source\repos\Project1\BraceApp\obj\Debug\BraceApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\BraceApp\bin\Debug\BraceApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\BraceApp\bin\Debug\BraceApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\BraceApp\bin\Debug\BraceApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\BraceApp\obj\Debug\BraceApp.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\BraceApp\obj\Debug\BraceApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\BraceApp\obj\Debug\BraceApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\BraceApp\obj\Debug\BraceApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\BraceApp\obj\Debug\BraceApp.pdb

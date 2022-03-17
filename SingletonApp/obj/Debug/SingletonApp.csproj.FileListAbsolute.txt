@@ -1,0 +1,13 @@
+C:\Users\b00001174\source\repos\Project1\SingletonApp\bin\Debug\SingletonApp.exe.config
+C:\Users\b00001174\source\repos\Project1\SingletonApp\bin\Debug\SingletonApp.exe
+C:\Users\b00001174\source\repos\Project1\SingletonApp\bin\Debug\SingletonApp.pdb
+C:\Users\b00001174\source\repos\Project1\SingletonApp\obj\Debug\SingletonApp.csproj.CoreCompileInputs.cache
+C:\Users\b00001174\source\repos\Project1\SingletonApp\obj\Debug\SingletonApp.exe
+C:\Users\b00001174\source\repos\Project1\SingletonApp\obj\Debug\SingletonApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\SingletonApp\bin\Debug\SingletonApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\SingletonApp\bin\Debug\SingletonApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\SingletonApp\bin\Debug\SingletonApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\SingletonApp\obj\Debug\SingletonApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\SingletonApp\obj\Debug\SingletonApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\SingletonApp\obj\Debug\SingletonApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\SingletonApp\obj\Debug\SingletonApp.pdb

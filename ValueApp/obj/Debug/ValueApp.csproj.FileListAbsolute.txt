@@ -1,0 +1,13 @@
+C:\Users\b00001174\source\repos\Project1\ValueApp\bin\Debug\ValueApp.exe.config
+C:\Users\b00001174\source\repos\Project1\ValueApp\bin\Debug\ValueApp.exe
+C:\Users\b00001174\source\repos\Project1\ValueApp\bin\Debug\ValueApp.pdb
+C:\Users\b00001174\source\repos\Project1\ValueApp\obj\Debug\ValueApp.csproj.CoreCompileInputs.cache
+C:\Users\b00001174\source\repos\Project1\ValueApp\obj\Debug\ValueApp.exe
+C:\Users\b00001174\source\repos\Project1\ValueApp\obj\Debug\ValueApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ValueApp\bin\Debug\ValueApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ValueApp\bin\Debug\ValueApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ValueApp\bin\Debug\ValueApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ValueApp\obj\Debug\ValueApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ValueApp\obj\Debug\ValueApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ValueApp\obj\Debug\ValueApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ValueApp\obj\Debug\ValueApp.pdb

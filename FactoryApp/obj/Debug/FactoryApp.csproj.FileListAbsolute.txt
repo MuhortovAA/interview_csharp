@@ -1,0 +1,13 @@
+C:\Users\b00001174\source\repos\Project1\FactoryApp\bin\Debug\FactoryApp.exe.config
+C:\Users\b00001174\source\repos\Project1\FactoryApp\bin\Debug\FactoryApp.exe
+C:\Users\b00001174\source\repos\Project1\FactoryApp\bin\Debug\FactoryApp.pdb
+C:\Users\b00001174\source\repos\Project1\FactoryApp\obj\Debug\FactoryApp.csproj.CoreCompileInputs.cache
+C:\Users\b00001174\source\repos\Project1\FactoryApp\obj\Debug\FactoryApp.exe
+C:\Users\b00001174\source\repos\Project1\FactoryApp\obj\Debug\FactoryApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\FactoryApp\bin\Debug\FactoryApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\FactoryApp\bin\Debug\FactoryApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\FactoryApp\bin\Debug\FactoryApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\FactoryApp\obj\Debug\FactoryApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\FactoryApp\obj\Debug\FactoryApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\FactoryApp\obj\Debug\FactoryApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\FactoryApp\obj\Debug\FactoryApp.pdb

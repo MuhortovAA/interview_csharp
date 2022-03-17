@@ -1,0 +1,15 @@
+C:\Users\b00001174\source\repos\Project1\CovariantApp\bin\Debug\CovariantApp.exe.config
+C:\Users\b00001174\source\repos\Project1\CovariantApp\bin\Debug\CovariantApp.exe
+C:\Users\b00001174\source\repos\Project1\CovariantApp\bin\Debug\CovariantApp.pdb
+C:\Users\b00001174\source\repos\Project1\CovariantApp\obj\Debug\CovariantApp.csproj.AssemblyReference.cache
+C:\Users\b00001174\source\repos\Project1\CovariantApp\obj\Debug\CovariantApp.csproj.CoreCompileInputs.cache
+C:\Users\b00001174\source\repos\Project1\CovariantApp\obj\Debug\CovariantApp.exe
+C:\Users\b00001174\source\repos\Project1\CovariantApp\obj\Debug\CovariantApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\CovariantApp\bin\Debug\CovariantApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\CovariantApp\bin\Debug\CovariantApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\CovariantApp\bin\Debug\CovariantApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\CovariantApp\obj\Debug\CovariantApp.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\CovariantApp\obj\Debug\CovariantApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\CovariantApp\obj\Debug\CovariantApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\CovariantApp\obj\Debug\CovariantApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\CovariantApp\obj\Debug\CovariantApp.pdb

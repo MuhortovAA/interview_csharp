@@ -1,0 +1,14 @@
+C:\Users\b00001174\source\repos\Project1\TaskDelayApp\bin\Debug\TaskDelayApp.exe.config
+C:\Users\b00001174\source\repos\Project1\TaskDelayApp\bin\Debug\TaskDelayApp.exe
+C:\Users\b00001174\source\repos\Project1\TaskDelayApp\bin\Debug\TaskDelayApp.pdb
+C:\Users\b00001174\source\repos\Project1\TaskDelayApp\obj\Debug\TaskDelayApp.csproj.CoreCompileInputs.cache
+C:\Users\b00001174\source\repos\Project1\TaskDelayApp\obj\Debug\TaskDelayApp.exe
+C:\Users\b00001174\source\repos\Project1\TaskDelayApp\obj\Debug\TaskDelayApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskDelayApp\bin\Debug\TaskDelayApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskDelayApp\bin\Debug\TaskDelayApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskDelayApp\bin\Debug\TaskDelayApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskDelayApp\obj\Debug\TaskDelayApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskDelayApp\obj\Debug\TaskDelayApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskDelayApp\obj\Debug\TaskDelayApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskDelayApp\obj\Debug\TaskDelayApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskDelayApp\obj\Debug\TaskDelayApp.csproj.AssemblyReference.cache

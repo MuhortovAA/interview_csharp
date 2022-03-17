@@ -1,0 +1,13 @@
+C:\Users\b00001174\source\repos\Project1\FinalizeApp\bin\Debug\FinalizeApp.exe.config
+C:\Users\b00001174\source\repos\Project1\FinalizeApp\bin\Debug\FinalizeApp.exe
+C:\Users\b00001174\source\repos\Project1\FinalizeApp\bin\Debug\FinalizeApp.pdb
+C:\Users\b00001174\source\repos\Project1\FinalizeApp\obj\Debug\FinalizeApp.csproj.CoreCompileInputs.cache
+C:\Users\b00001174\source\repos\Project1\FinalizeApp\obj\Debug\FinalizeApp.exe
+C:\Users\b00001174\source\repos\Project1\FinalizeApp\obj\Debug\FinalizeApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\FinalizeApp\bin\Debug\FinalizeApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\FinalizeApp\bin\Debug\FinalizeApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\FinalizeApp\bin\Debug\FinalizeApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\FinalizeApp\obj\Debug\FinalizeApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\FinalizeApp\obj\Debug\FinalizeApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\FinalizeApp\obj\Debug\FinalizeApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\FinalizeApp\obj\Debug\FinalizeApp.pdb

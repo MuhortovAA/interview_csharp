@@ -1,0 +1,13 @@
+C:\Users\b00001174\source\repos\Project1\PropertiesApp\bin\Debug\PropertiesApp.exe.config
+C:\Users\b00001174\source\repos\Project1\PropertiesApp\bin\Debug\PropertiesApp.exe
+C:\Users\b00001174\source\repos\Project1\PropertiesApp\bin\Debug\PropertiesApp.pdb
+C:\Users\b00001174\source\repos\Project1\PropertiesApp\obj\Debug\PropertiesApp.csproj.CoreCompileInputs.cache
+C:\Users\b00001174\source\repos\Project1\PropertiesApp\obj\Debug\PropertiesApp.exe
+C:\Users\b00001174\source\repos\Project1\PropertiesApp\obj\Debug\PropertiesApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\PropertiesApp\bin\Debug\PropertiesApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\PropertiesApp\bin\Debug\PropertiesApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\PropertiesApp\bin\Debug\PropertiesApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\PropertiesApp\obj\Debug\PropertiesApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\PropertiesApp\obj\Debug\PropertiesApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\PropertiesApp\obj\Debug\PropertiesApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\PropertiesApp\obj\Debug\PropertiesApp.pdb

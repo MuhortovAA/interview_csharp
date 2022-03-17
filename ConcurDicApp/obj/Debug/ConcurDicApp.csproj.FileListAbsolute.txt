@@ -1,0 +1,13 @@
+C:\Users\b00001174\source\repos\Project1\ConcurDicApp\bin\Debug\ConcurDicApp.exe.config
+C:\Users\b00001174\source\repos\Project1\ConcurDicApp\bin\Debug\ConcurDicApp.exe
+C:\Users\b00001174\source\repos\Project1\ConcurDicApp\bin\Debug\ConcurDicApp.pdb
+C:\Users\b00001174\source\repos\Project1\ConcurDicApp\obj\Debug\ConcurDicApp.csproj.CoreCompileInputs.cache
+C:\Users\b00001174\source\repos\Project1\ConcurDicApp\obj\Debug\ConcurDicApp.exe
+C:\Users\b00001174\source\repos\Project1\ConcurDicApp\obj\Debug\ConcurDicApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ConcurDicApp\bin\Debug\ConcurDicApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ConcurDicApp\bin\Debug\ConcurDicApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ConcurDicApp\bin\Debug\ConcurDicApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ConcurDicApp\obj\Debug\ConcurDicApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ConcurDicApp\obj\Debug\ConcurDicApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ConcurDicApp\obj\Debug\ConcurDicApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ConcurDicApp\obj\Debug\ConcurDicApp.pdb

@@ -1,0 +1,13 @@
+C:\Users\b00001174\source\repos\Project1\EnumerableApp\bin\Debug\EnumerableApp.exe.config
+C:\Users\b00001174\source\repos\Project1\EnumerableApp\bin\Debug\EnumerableApp.exe
+C:\Users\b00001174\source\repos\Project1\EnumerableApp\bin\Debug\EnumerableApp.pdb
+C:\Users\b00001174\source\repos\Project1\EnumerableApp\obj\Debug\EnumerableApp.csproj.CoreCompileInputs.cache
+C:\Users\b00001174\source\repos\Project1\EnumerableApp\obj\Debug\EnumerableApp.exe
+C:\Users\b00001174\source\repos\Project1\EnumerableApp\obj\Debug\EnumerableApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\EnumerableApp\bin\Debug\EnumerableApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\EnumerableApp\bin\Debug\EnumerableApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\EnumerableApp\bin\Debug\EnumerableApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\EnumerableApp\obj\Debug\EnumerableApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\EnumerableApp\obj\Debug\EnumerableApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\EnumerableApp\obj\Debug\EnumerableApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\EnumerableApp\obj\Debug\EnumerableApp.pdb

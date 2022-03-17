@@ -1,0 +1,741 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="AdminModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'myData.Bank.Branches' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="Branches">
+          <Key>
+            <PropertyRef Name="ID" />
+            <PropertyRef Name="Mfo" />
+            <PropertyRef Name="Name" />
+            <PropertyRef Name="Address" />
+            <PropertyRef Name="Oblast" />
+            <PropertyRef Name="bDelete" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" />
+          <Property Name="Mfo" Type="varchar" MaxLength="9" Nullable="false" />
+          <Property Name="Filial" Type="varchar" MaxLength="7" />
+          <Property Name="CBY" Type="varchar" MaxLength="7" />
+          <Property Name="Otdelenie" Type="varchar" MaxLength="7" />
+          <Property Name="Name" Type="varchar" MaxLength="105" Nullable="false" />
+          <Property Name="Address" Type="varchar" MaxLength="105" Nullable="false" />
+          <Property Name="Oblast" Type="varchar" MaxLength="105" Nullable="false" />
+          <Property Name="bDelete" Type="bit" Nullable="false" />
+          <Property Name="TypeODB" Type="int" />
+          <Property Name="AccountPayment" Type="nvarchar" MaxLength="50" />
+          <Property Name="UnpPayment" Type="nvarchar" MaxLength="50" />
+          <Property Name="TimeCreationQuery" Type="time" Precision="7" />
+          <Property Name="PreviousDay" Type="bit" />
+          <Property Name="OutputDirectory" Type="nvarchar" MaxLength="250" />
+          <Property Name="ReportThen" Type="int" />
+          <Property Name="OblastTwo" Type="varchar" MaxLength="105" />
+          <Property Name="BikIban" Type="nvarchar" MaxLength="20" />
+          <Property Name="TypeOfSettelmentId" Type="int" />
+          <Property Name="Locality" Type="nvarchar" MaxLength="50" />
+          <Property Name="OrgSapId" Type="varchar" MaxLength="20" />
+          <Property Name="OperationClose" Type="bit" />
+        </EntityType>
+        <EntityType Name="UserRoli">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="UserBankID" Type="int" Nullable="false" />
+          <Property Name="CodeRoliID" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="UsersBank">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="ClientID" Type="int" Nullable="false" />
+          <Property Name="LastName" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="FirstName" Type="varchar" MaxLength="50" />
+          <Property Name="MiddleName" Type="varchar" MaxLength="50" />
+          <Property Name="Login" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="Phones" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="Email" Type="varchar" MaxLength="50" />
+          <Property Name="Password" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="bBloc" Type="tinyint" />
+          <Property Name="IDKey" Type="varchar" MaxLength="8" Nullable="false" />
+          <Property Name="KeySN" Type="varchar" MaxLength="30" Nullable="false" />
+          <Property Name="bWork" Type="bit" />
+          <Property Name="DateWorks" Type="date" />
+          <Property Name="LoginNo" Type="int" />
+          <Property Name="bLogin" Type="tinyint" />
+          <Property Name="IDRoli" Type="int" Nullable="false" />
+          <Property Name="DateCreation" Type="date" Nullable="false" />
+          <Property Name="DateLogin" Type="date" />
+          <Property Name="DateBlock" Type="date" />
+          <Property Name="DateChangePassword" Type="date" />
+          <Property Name="PeriodChangePassword" Type="tinyint" />
+          <Property Name="FlagChangePassword" Type="bit" />
+          <Property Name="CountChangePassword" Type="tinyint" />
+          <Property Name="DayOper" Type="int" />
+          <Property Name="DateNewChangePassword" Type="date" />
+          <Property Name="ExitNoChangePassword" Type="tinyint" />
+          <Property Name="ErrorLoginNo" Type="int" />
+          <Property Name="DateErrorLoginNo" Type="datetime" />
+          <Property Name="DayBlockErrorLogin" Type="int" />
+          <Property Name="CountDayBlockErrorLogin" Type="int" />
+          <Property Name="DateBlockLogin" Type="datetime" />
+          <Property Name="UserTechnical" Type="bit" />
+          <Property Name="UserCodeSAPDM" Type="varchar" MaxLength="12" />
+          <Property Name="OrgunitCode" Type="int" />
+          <Property Name="ReceiveLetters" Type="bit" />
+          <Property Name="ReceiveTechnicalMessages" Type="bit" />
+          <Property Name="LastBlockDate" Type="date" />
+          <Property Name="PrSaleManager" Type="bit" />
+          <Property Name="PrExecuteDeposit" Type="bit" />
+          <Property Name="UserCodeCSRUB" Type="varchar" MaxLength="50" />
+          <Property Name="PrRecvdoca" Type="bit" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6013: The table/view 'myData.dbo.2' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="2">
+          <Property Name="IDCLI" Type="varchar" MaxLength="50" />
+          <Property Name="NameFile" Type="varchar" MaxLength="50" />
+          <Property Name="Acc_d" Type="varchar" MaxLength="50" />
+          <Property Name="Acc_k" Type="varchar" MaxLength="50" />
+          <Property Name="acc_sp" Type="varchar" MaxLength="50" />
+          <Property Name="TarCodeBnk" Type="varchar" MaxLength="50" />
+          <Property Name="srccodebnk" Type="varchar" MaxLength="50" />
+          <Property Name="Ammount" Type="varchar" MaxLength="50" />
+          <Property Name="Ammount3" Type="varchar" MaxLength="50" />
+          <Property Name="AmmountE" Type="varchar" MaxLength="50" />
+          <Property Name="AmmountE3" Type="varchar" MaxLength="50" />
+          <Property Name="ISO_P" Type="varchar" MaxLength="50" />
+          <Property Name="DopInfo" Type="varchar" MaxLength="50" />
+          <Property Name="conv" Type="varchar" MaxLength="50" />
+          <Property Name="vidS" Type="varchar" MaxLength="50" />
+          <Property Name="Pril" Type="varchar" MaxLength="50" />
+          <Property Name="ViYes 1 " Type="varchar" MaxLength="50" />
+          <Property Name="ViYes 2 " Type="varchar" MaxLength="50" />
+          <Property Name="kd 1 " Type="varchar" MaxLength="50" />
+          <Property Name="kd 2 " Type="varchar" MaxLength="50" />
+          <Property Name="Folder 1 " Type="varchar" MaxLength="50" />
+          <Property Name="Folder 2 " Type="varchar" MaxLength="50" />
+          <Property Name="FolderSp" Type="varchar" MaxLength="50" />
+          <Property Name="NOtdelen" Type="varchar" MaxLength="50" />
+          <Property Name="type_sp" Type="varchar" MaxLength="50" />
+        </EntityType>-->
+        <!--Errors Found During Generation:
+warning 6013: The table/view 'myData.dbo.myCustomers' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="myCustomers">
+          <Property Name="clientid" Type="nvarchar(max)" />
+          <Property Name="elclientid" Type="nvarchar(max)" />
+          <Property Name="clientname" Type="nvarchar(max)" />
+          <Property Name="code" Type="nvarchar(max)" />
+        </EntityType>-->
+        <!--Errors Found During Generation:
+warning 6013: The table/view 'myData.dbo.myUser_Oracl' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="myUser_Oracl">
+          <Property Name="NEW_USERID" Type="nvarchar(max)" />
+          <Property Name="OLD_USERID" Type="nvarchar(max)" />
+          <Property Name="USERNAME" Type="nvarchar(max)" />
+          <Property Name="FULLUSERNAME" Type="nvarchar(max)" />
+        </EntityType>-->
+        <EntityType Name="roli">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Name" Type="varchar" MaxLength="200" />
+          <Property Name="CodeARM" Type="tinyint" Nullable="false" />
+          <Property Name="LevelAccess" Type="tinyint" Nullable="false" />
+          <Property Name="PoliticAccess" Type="nvarchar" MaxLength="600" Nullable="false" />
+          <Property Name="Comment" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="IsDelete" Type="bit" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'myData.Bank.vBankUserInfo' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="vBankUserInfo">
+          <Key>
+            <PropertyRef Name="ClientID" />
+            <PropertyRef Name="Login" />
+            <PropertyRef Name="Password" />
+            <PropertyRef Name="IDKey" />
+            <PropertyRef Name="KeySN" />
+            <PropertyRef Name="id" />
+            <PropertyRef Name="LastName" />
+            <PropertyRef Name="DateCreation" />
+            <PropertyRef Name="IDRoli" />
+          </Key>
+          <Property Name="Name" Type="varchar" MaxLength="105" />
+          <Property Name="ClientID" Type="int" Nullable="false" />
+          <Property Name="Login" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="Password" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="IDKey" Type="varchar" MaxLength="8" Nullable="false" />
+          <Property Name="KeySN" Type="varchar" MaxLength="30" Nullable="false" />
+          <Property Name="LoginNo" Type="int" />
+          <Property Name="bLogin" Type="tinyint" />
+          <Property Name="CodeARM" Type="tinyint" />
+          <Property Name="LevelAccess" Type="tinyint" />
+          <Property Name="id" Type="int" Nullable="false" />
+          <Property Name="LastName" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="FirstName" Type="varchar" MaxLength="50" />
+          <Property Name="MiddleName" Type="varchar" MaxLength="50" />
+          <Property Name="DayOper" Type="int" />
+          <Property Name="DateChangePassword" Type="date" />
+          <Property Name="PeriodChangePassword" Type="tinyint" />
+          <Property Name="FlagChangePassword" Type="bit" />
+          <Property Name="CountChangePassword" Type="tinyint" />
+          <Property Name="DateNewChangePassword" Type="date" />
+          <Property Name="bWork" Type="bit" />
+          <Property Name="DateCreation" Type="date" Nullable="false" />
+          <Property Name="ExitNoChangePassword" Type="tinyint" />
+          <Property Name="DateBlock" Type="date" />
+          <Property Name="ErrorLoginNo" Type="int" />
+          <Property Name="DateErrorLoginNo" Type="datetime" />
+          <Property Name="DayBlockErrorLogin" Type="int" />
+          <Property Name="CountDayBlockErrorLogin" Type="int" />
+          <Property Name="DateBlockLogin" Type="datetime" />
+          <Property Name="UserTechnical" Type="bit" />
+          <Property Name="UserCodeSAPDM" Type="varchar" MaxLength="12" />
+          <Property Name="Mfo" Type="varchar" MaxLength="9" />
+          <Property Name="OrgunitCode" Type="int" />
+          <Property Name="TypeODB" Type="int" />
+          <Property Name="IDRoli" Type="int" Nullable="false" />
+          <Property Name="Email" Type="varchar" MaxLength="50" />
+          <Property Name="NameRoli" Type="varchar" MaxLength="200" />
+          <Property Name="BikIban" Type="nvarchar" MaxLength="20" />
+          <Property Name="LastBlockDate" Type="date" />
+          <Property Name="PrSaleManager" Type="bit" />
+          <Property Name="PrExecuteDeposit" Type="bit" />
+          <Property Name="UserCodeCSRUB" Type="varchar" MaxLength="50" />
+          <Property Name="PrRecvdoca" Type="bit" />
+        </EntityType>
+        <Function Name="LUserARM" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="Bank">
+          <Parameter Name="Login" Type="varchar" Mode="In" />
+          <Parameter Name="Password" Type="varchar" Mode="In" />
+          <Parameter Name="KeySN" Type="varchar" Mode="In" />
+          <Parameter Name="TypeArmID" Type="int" Mode="In" />
+          <Parameter Name="ErrorCode" Type="int" Mode="InOut" />
+        </Function>
+        <EntityContainer Name="AdminModelStoreContainer">
+          <EntitySet Name="UserRoli" EntityType="Self.UserRoli" Schema="Bank" store:Type="Tables" />
+          <EntitySet Name="UsersBank" EntityType="Self.UsersBank" Schema="Bank" store:Type="Tables" />
+          <EntitySet Name="roli" EntityType="Self.roli" Schema="Referencies" store:Type="Tables" />
+          <EntitySet Name="Branches" EntityType="Self.Branches" store:Type="Tables" store:Schema="Bank">
+            <DefiningQuery>SELECT 
+    [Branches].[ID] AS [ID], 
+    [Branches].[Mfo] AS [Mfo], 
+    [Branches].[Filial] AS [Filial], 
+    [Branches].[CBY] AS [CBY], 
+    [Branches].[Otdelenie] AS [Otdelenie], 
+    [Branches].[Name] AS [Name], 
+    [Branches].[Address] AS [Address], 
+    [Branches].[Oblast] AS [Oblast], 
+    [Branches].[bDelete] AS [bDelete], 
+    [Branches].[TypeODB] AS [TypeODB], 
+    [Branches].[AccountPayment] AS [AccountPayment], 
+    [Branches].[UnpPayment] AS [UnpPayment], 
+    [Branches].[TimeCreationQuery] AS [TimeCreationQuery], 
+    [Branches].[PreviousDay] AS [PreviousDay], 
+    [Branches].[OutputDirectory] AS [OutputDirectory], 
+    [Branches].[ReportThen] AS [ReportThen], 
+    [Branches].[OblastTwo] AS [OblastTwo], 
+    [Branches].[BikIban] AS [BikIban], 
+    [Branches].[TypeOfSettelmentId] AS [TypeOfSettelmentId], 
+    [Branches].[Locality] AS [Locality], 
+    [Branches].[OrgSapId] AS [OrgSapId], 
+    [Branches].[OperationClose] AS [OperationClose]
+    FROM [Bank].[Branches] AS [Branches]</DefiningQuery>
+          </EntitySet>
+          <EntitySet Name="vBankUserInfo" EntityType="Self.vBankUserInfo" store:Type="Views" store:Schema="Bank">
+            <DefiningQuery>SELECT 
+    [vBankUserInfo].[Name] AS [Name], 
+    [vBankUserInfo].[ClientID] AS [ClientID], 
+    [vBankUserInfo].[Login] AS [Login], 
+    [vBankUserInfo].[Password] AS [Password], 
+    [vBankUserInfo].[IDKey] AS [IDKey], 
+    [vBankUserInfo].[KeySN] AS [KeySN], 
+    [vBankUserInfo].[LoginNo] AS [LoginNo], 
+    [vBankUserInfo].[bLogin] AS [bLogin], 
+    [vBankUserInfo].[CodeARM] AS [CodeARM], 
+    [vBankUserInfo].[LevelAccess] AS [LevelAccess], 
+    [vBankUserInfo].[id] AS [id], 
+    [vBankUserInfo].[LastName] AS [LastName], 
+    [vBankUserInfo].[FirstName] AS [FirstName], 
+    [vBankUserInfo].[MiddleName] AS [MiddleName], 
+    [vBankUserInfo].[DayOper] AS [DayOper], 
+    [vBankUserInfo].[DateChangePassword] AS [DateChangePassword], 
+    [vBankUserInfo].[PeriodChangePassword] AS [PeriodChangePassword], 
+    [vBankUserInfo].[FlagChangePassword] AS [FlagChangePassword], 
+    [vBankUserInfo].[CountChangePassword] AS [CountChangePassword], 
+    [vBankUserInfo].[DateNewChangePassword] AS [DateNewChangePassword], 
+    [vBankUserInfo].[bWork] AS [bWork], 
+    [vBankUserInfo].[DateCreation] AS [DateCreation], 
+    [vBankUserInfo].[ExitNoChangePassword] AS [ExitNoChangePassword], 
+    [vBankUserInfo].[DateBlock] AS [DateBlock], 
+    [vBankUserInfo].[ErrorLoginNo] AS [ErrorLoginNo], 
+    [vBankUserInfo].[DateErrorLoginNo] AS [DateErrorLoginNo], 
+    [vBankUserInfo].[DayBlockErrorLogin] AS [DayBlockErrorLogin], 
+    [vBankUserInfo].[CountDayBlockErrorLogin] AS [CountDayBlockErrorLogin], 
+    [vBankUserInfo].[DateBlockLogin] AS [DateBlockLogin], 
+    [vBankUserInfo].[UserTechnical] AS [UserTechnical], 
+    [vBankUserInfo].[UserCodeSAPDM] AS [UserCodeSAPDM], 
+    [vBankUserInfo].[Mfo] AS [Mfo], 
+    [vBankUserInfo].[OrgunitCode] AS [OrgunitCode], 
+    [vBankUserInfo].[TypeODB] AS [TypeODB], 
+    [vBankUserInfo].[IDRoli] AS [IDRoli], 
+    [vBankUserInfo].[Email] AS [Email], 
+    [vBankUserInfo].[NameRoli] AS [NameRoli], 
+    [vBankUserInfo].[BikIban] AS [BikIban], 
+    [vBankUserInfo].[LastBlockDate] AS [LastBlockDate], 
+    [vBankUserInfo].[PrSaleManager] AS [PrSaleManager], 
+    [vBankUserInfo].[PrExecuteDeposit] AS [PrExecuteDeposit], 
+    [vBankUserInfo].[UserCodeCSRUB] AS [UserCodeCSRUB], 
+    [vBankUserInfo].[PrRecvdoca] AS [PrRecvdoca]
+    FROM [Bank].[vBankUserInfo] AS [vBankUserInfo]</DefiningQuery>
+          </EntitySet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="AdminModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="UserRoli">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="UserBankID" Type="Int32" Nullable="false" />
+          <Property Name="CodeRoliID" Type="Int32" Nullable="false" />
+        </EntityType>
+        <EntityType Name="UsersBank">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="ClientID" Type="Int32" Nullable="false" />
+          <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="MiddleName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Login" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Phones" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Password" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="bBloc" Type="Byte" />
+          <Property Name="IDKey" Type="String" MaxLength="8" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="KeySN" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="bWork" Type="Boolean" />
+          <Property Name="DateWorks" Type="DateTime" Precision="0" />
+          <Property Name="LoginNo" Type="Int32" />
+          <Property Name="bLogin" Type="Byte" />
+          <Property Name="IDRoli" Type="Int32" Nullable="false" />
+          <Property Name="DateCreation" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="DateLogin" Type="DateTime" Precision="0" />
+          <Property Name="DateBlock" Type="DateTime" Precision="0" />
+          <Property Name="DateChangePassword" Type="DateTime" Precision="0" />
+          <Property Name="PeriodChangePassword" Type="Byte" />
+          <Property Name="FlagChangePassword" Type="Boolean" />
+          <Property Name="CountChangePassword" Type="Byte" />
+          <Property Name="DayOper" Type="Int32" />
+          <Property Name="DateNewChangePassword" Type="DateTime" Precision="0" />
+          <Property Name="ExitNoChangePassword" Type="Byte" />
+          <Property Name="ErrorLoginNo" Type="Int32" />
+          <Property Name="DateErrorLoginNo" Type="DateTime" Precision="3" />
+          <Property Name="DayBlockErrorLogin" Type="Int32" />
+          <Property Name="CountDayBlockErrorLogin" Type="Int32" />
+          <Property Name="DateBlockLogin" Type="DateTime" Precision="3" />
+          <Property Name="UserTechnical" Type="Boolean" />
+          <Property Name="UserCodeSAPDM" Type="String" MaxLength="12" FixedLength="false" Unicode="false" />
+          <Property Name="OrgunitCode" Type="Int32" />
+          <Property Name="ReceiveLetters" Type="Boolean" />
+          <Property Name="ReceiveTechnicalMessages" Type="Boolean" />
+          <Property Name="LastBlockDate" Type="DateTime" Precision="0" />
+          <Property Name="PrSaleManager" Type="Boolean" />
+          <Property Name="PrExecuteDeposit" Type="Boolean" />
+          <Property Name="UserCodeCSRUB" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="PrRecvdoca" Type="Boolean" />
+        </EntityType>
+        <EntityType Name="roli">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+          <Property Name="CodeARM" Type="Byte" Nullable="false" />
+          <Property Name="LevelAccess" Type="Byte" Nullable="false" />
+          <Property Name="PoliticAccess" Type="String" MaxLength="600" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Comment" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="IsDelete" Type="Boolean" />
+        </EntityType>
+        <EntityType Name="Branches">
+          <Key>
+            <PropertyRef Name="ID" />
+            <PropertyRef Name="Mfo" />
+            <PropertyRef Name="Name" />
+            <PropertyRef Name="Address" />
+            <PropertyRef Name="Oblast" />
+            <PropertyRef Name="bDelete" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" />
+          <Property Name="Mfo" Type="String" MaxLength="9" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Filial" Type="String" MaxLength="7" FixedLength="false" Unicode="false" />
+          <Property Name="CBY" Type="String" MaxLength="7" FixedLength="false" Unicode="false" />
+          <Property Name="Otdelenie" Type="String" MaxLength="7" FixedLength="false" Unicode="false" />
+          <Property Name="Name" Type="String" MaxLength="105" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Address" Type="String" MaxLength="105" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Oblast" Type="String" MaxLength="105" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="bDelete" Type="Boolean" Nullable="false" />
+          <Property Name="TypeODB" Type="Int32" />
+          <Property Name="AccountPayment" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="UnpPayment" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="TimeCreationQuery" Type="Time" Precision="7" />
+          <Property Name="PreviousDay" Type="Boolean" />
+          <Property Name="OutputDirectory" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+          <Property Name="ReportThen" Type="Int32" />
+          <Property Name="OblastTwo" Type="String" MaxLength="105" FixedLength="false" Unicode="false" />
+          <Property Name="BikIban" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+          <Property Name="TypeOfSettelmentId" Type="Int32" />
+          <Property Name="Locality" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="OrgSapId" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="OperationClose" Type="Boolean" />
+        </EntityType>
+        <EntityType Name="vBankUserInfo">
+          <Key>
+            <PropertyRef Name="ClientID" />
+            <PropertyRef Name="Login" />
+            <PropertyRef Name="Password" />
+            <PropertyRef Name="IDKey" />
+            <PropertyRef Name="KeySN" />
+            <PropertyRef Name="id" />
+            <PropertyRef Name="LastName" />
+            <PropertyRef Name="DateCreation" />
+            <PropertyRef Name="IDRoli" />
+          </Key>
+          <Property Name="Name" Type="String" MaxLength="105" FixedLength="false" Unicode="false" />
+          <Property Name="ClientID" Type="Int32" Nullable="false" />
+          <Property Name="Login" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Password" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="IDKey" Type="String" MaxLength="8" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="KeySN" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="LoginNo" Type="Int32" />
+          <Property Name="bLogin" Type="Byte" />
+          <Property Name="CodeARM" Type="Byte" />
+          <Property Name="LevelAccess" Type="Byte" />
+          <Property Name="id" Type="Int32" Nullable="false" />
+          <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="MiddleName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="DayOper" Type="Int32" />
+          <Property Name="DateChangePassword" Type="DateTime" Precision="0" />
+          <Property Name="PeriodChangePassword" Type="Byte" />
+          <Property Name="FlagChangePassword" Type="Boolean" />
+          <Property Name="CountChangePassword" Type="Byte" />
+          <Property Name="DateNewChangePassword" Type="DateTime" Precision="0" />
+          <Property Name="bWork" Type="Boolean" />
+          <Property Name="DateCreation" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="ExitNoChangePassword" Type="Byte" />
+          <Property Name="DateBlock" Type="DateTime" Precision="0" />
+          <Property Name="ErrorLoginNo" Type="Int32" />
+          <Property Name="DateErrorLoginNo" Type="DateTime" Precision="3" />
+          <Property Name="DayBlockErrorLogin" Type="Int32" />
+          <Property Name="CountDayBlockErrorLogin" Type="Int32" />
+          <Property Name="DateBlockLogin" Type="DateTime" Precision="3" />
+          <Property Name="UserTechnical" Type="Boolean" />
+          <Property Name="UserCodeSAPDM" Type="String" MaxLength="12" FixedLength="false" Unicode="false" />
+          <Property Name="Mfo" Type="String" MaxLength="9" FixedLength="false" Unicode="false" />
+          <Property Name="OrgunitCode" Type="Int32" />
+          <Property Name="TypeODB" Type="Int32" />
+          <Property Name="IDRoli" Type="Int32" Nullable="false" />
+          <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="NameRoli" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+          <Property Name="BikIban" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+          <Property Name="LastBlockDate" Type="DateTime" Precision="0" />
+          <Property Name="PrSaleManager" Type="Boolean" />
+          <Property Name="PrExecuteDeposit" Type="Boolean" />
+          <Property Name="UserCodeCSRUB" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="PrRecvdoca" Type="Boolean" />
+        </EntityType>
+        <EntityContainer Name="AdminEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="UserRoli" EntityType="Self.UserRoli" />
+          <EntitySet Name="UsersBank" EntityType="Self.UsersBank" />
+          <EntitySet Name="roli" EntityType="Self.roli" />
+          <EntitySet Name="Branches" EntityType="Self.Branches" />
+          <EntitySet Name="vBankUserInfo" EntityType="Self.vBankUserInfo" />
+          <FunctionImport Name="LUserARM" ReturnType="Collection(AdminModel.LUserARM_Result)">
+            <Parameter Name="Login" Mode="In" Type="String" />
+            <Parameter Name="Password" Mode="In" Type="String" />
+            <Parameter Name="KeySN" Mode="In" Type="String" />
+            <Parameter Name="TypeArmID" Mode="In" Type="Int32" />
+            <Parameter Name="ErrorCode" Mode="InOut" Type="Int32" />
+          </FunctionImport>
+        </EntityContainer>
+        <ComplexType Name="LUserARM_Result">
+          <Property Type="String" Name="Name" Nullable="true" MaxLength="105" />
+          <Property Type="Int32" Name="ClientID" Nullable="false" />
+          <Property Type="String" Name="Login" Nullable="false" MaxLength="50" />
+          <Property Type="String" Name="Password" Nullable="false" MaxLength="100" />
+          <Property Type="String" Name="IDKey" Nullable="false" MaxLength="8" />
+          <Property Type="String" Name="KeySN" Nullable="false" MaxLength="30" />
+          <Property Type="Int32" Name="LoginNo" Nullable="true" />
+          <Property Type="Byte" Name="bLogin" Nullable="true" />
+          <Property Type="Byte" Name="CodeARM" Nullable="true" />
+          <Property Type="Byte" Name="LevelAccess" Nullable="true" />
+          <Property Type="Int32" Name="id" Nullable="false" />
+          <Property Type="String" Name="LastName" Nullable="false" MaxLength="50" />
+          <Property Type="String" Name="FirstName" Nullable="true" MaxLength="50" />
+          <Property Type="String" Name="MiddleName" Nullable="true" MaxLength="50" />
+          <Property Type="Int32" Name="DayOper" Nullable="true" />
+          <Property Type="DateTime" Name="DateChangePassword" Nullable="true" />
+          <Property Type="Byte" Name="PeriodChangePassword" Nullable="true" />
+          <Property Type="Boolean" Name="FlagChangePassword" Nullable="true" />
+          <Property Type="Byte" Name="CountChangePassword" Nullable="true" />
+          <Property Type="DateTime" Name="DateNewChangePassword" Nullable="true" />
+          <Property Type="Boolean" Name="bWork" Nullable="true" />
+          <Property Type="DateTime" Name="DateCreation" Nullable="false" />
+          <Property Type="Byte" Name="ExitNoChangePassword" Nullable="true" />
+          <Property Type="DateTime" Name="DateBlock" Nullable="true" />
+          <Property Type="Int32" Name="ErrorLoginNo" Nullable="true" />
+          <Property Type="DateTime" Name="DateErrorLoginNo" Nullable="true" Precision="23" />
+          <Property Type="Int32" Name="DayBlockErrorLogin" Nullable="true" />
+          <Property Type="Int32" Name="CountDayBlockErrorLogin" Nullable="true" />
+          <Property Type="DateTime" Name="DateBlockLogin" Nullable="true" Precision="23" />
+          <Property Type="Boolean" Name="UserTechnical" Nullable="true" />
+          <Property Type="String" Name="UserCodeSAPDM" Nullable="true" MaxLength="12" />
+          <Property Type="String" Name="Mfo" Nullable="true" MaxLength="9" />
+          <Property Type="Int32" Name="OrgunitCode" Nullable="true" />
+          <Property Type="Int32" Name="TypeODB" Nullable="true" />
+          <Property Type="Int32" Name="IDRoli" Nullable="false" />
+          <Property Type="String" Name="Email" Nullable="true" MaxLength="50" />
+          <Property Type="String" Name="NameRoli" Nullable="true" MaxLength="200" />
+          <Property Type="String" Name="BikIban" Nullable="true" MaxLength="20" />
+          <Property Type="DateTime" Name="LastBlockDate" Nullable="true" />
+          <Property Type="Boolean" Name="PrSaleManager" Nullable="true" />
+          <Property Type="Boolean" Name="PrExecuteDeposit" Nullable="true" />
+          <Property Type="String" Name="UserCodeCSRUB" Nullable="true" MaxLength="50" />
+          <Property Type="Boolean" Name="PrRecvdoca" Nullable="true" />
+        </ComplexType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="AdminModelStoreContainer" CdmEntityContainer="AdminEntities">
+          <EntitySetMapping Name="UserRoli">
+            <EntityTypeMapping TypeName="AdminModel.UserRoli">
+              <MappingFragment StoreEntitySet="UserRoli">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="UserBankID" ColumnName="UserBankID" />
+                <ScalarProperty Name="CodeRoliID" ColumnName="CodeRoliID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="UsersBank">
+            <EntityTypeMapping TypeName="AdminModel.UsersBank">
+              <MappingFragment StoreEntitySet="UsersBank">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="ClientID" ColumnName="ClientID" />
+                <ScalarProperty Name="LastName" ColumnName="LastName" />
+                <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+                <ScalarProperty Name="MiddleName" ColumnName="MiddleName" />
+                <ScalarProperty Name="Login" ColumnName="Login" />
+                <ScalarProperty Name="Phones" ColumnName="Phones" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="Password" ColumnName="Password" />
+                <ScalarProperty Name="bBloc" ColumnName="bBloc" />
+                <ScalarProperty Name="IDKey" ColumnName="IDKey" />
+                <ScalarProperty Name="KeySN" ColumnName="KeySN" />
+                <ScalarProperty Name="bWork" ColumnName="bWork" />
+                <ScalarProperty Name="DateWorks" ColumnName="DateWorks" />
+                <ScalarProperty Name="LoginNo" ColumnName="LoginNo" />
+                <ScalarProperty Name="bLogin" ColumnName="bLogin" />
+                <ScalarProperty Name="IDRoli" ColumnName="IDRoli" />
+                <ScalarProperty Name="DateCreation" ColumnName="DateCreation" />
+                <ScalarProperty Name="DateLogin" ColumnName="DateLogin" />
+                <ScalarProperty Name="DateBlock" ColumnName="DateBlock" />
+                <ScalarProperty Name="DateChangePassword" ColumnName="DateChangePassword" />
+                <ScalarProperty Name="PeriodChangePassword" ColumnName="PeriodChangePassword" />
+                <ScalarProperty Name="FlagChangePassword" ColumnName="FlagChangePassword" />
+                <ScalarProperty Name="CountChangePassword" ColumnName="CountChangePassword" />
+                <ScalarProperty Name="DayOper" ColumnName="DayOper" />
+                <ScalarProperty Name="DateNewChangePassword" ColumnName="DateNewChangePassword" />
+                <ScalarProperty Name="ExitNoChangePassword" ColumnName="ExitNoChangePassword" />
+                <ScalarProperty Name="ErrorLoginNo" ColumnName="ErrorLoginNo" />
+                <ScalarProperty Name="DateErrorLoginNo" ColumnName="DateErrorLoginNo" />
+                <ScalarProperty Name="DayBlockErrorLogin" ColumnName="DayBlockErrorLogin" />
+                <ScalarProperty Name="CountDayBlockErrorLogin" ColumnName="CountDayBlockErrorLogin" />
+                <ScalarProperty Name="DateBlockLogin" ColumnName="DateBlockLogin" />
+                <ScalarProperty Name="UserTechnical" ColumnName="UserTechnical" />
+                <ScalarProperty Name="UserCodeSAPDM" ColumnName="UserCodeSAPDM" />
+                <ScalarProperty Name="OrgunitCode" ColumnName="OrgunitCode" />
+                <ScalarProperty Name="ReceiveLetters" ColumnName="ReceiveLetters" />
+                <ScalarProperty Name="ReceiveTechnicalMessages" ColumnName="ReceiveTechnicalMessages" />
+                <ScalarProperty Name="LastBlockDate" ColumnName="LastBlockDate" />
+                <ScalarProperty Name="PrSaleManager" ColumnName="PrSaleManager" />
+                <ScalarProperty Name="PrExecuteDeposit" ColumnName="PrExecuteDeposit" />
+                <ScalarProperty Name="UserCodeCSRUB" ColumnName="UserCodeCSRUB" />
+                <ScalarProperty Name="PrRecvdoca" ColumnName="PrRecvdoca" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="roli">
+            <EntityTypeMapping TypeName="AdminModel.roli">
+              <MappingFragment StoreEntitySet="roli">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="CodeARM" ColumnName="CodeARM" />
+                <ScalarProperty Name="LevelAccess" ColumnName="LevelAccess" />
+                <ScalarProperty Name="PoliticAccess" ColumnName="PoliticAccess" />
+                <ScalarProperty Name="Comment" ColumnName="Comment" />
+                <ScalarProperty Name="IsDelete" ColumnName="IsDelete" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Branches">
+            <EntityTypeMapping TypeName="AdminModel.Branches">
+              <MappingFragment StoreEntitySet="Branches">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="Mfo" ColumnName="Mfo" />
+                <ScalarProperty Name="Filial" ColumnName="Filial" />
+                <ScalarProperty Name="CBY" ColumnName="CBY" />
+                <ScalarProperty Name="Otdelenie" ColumnName="Otdelenie" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="Address" ColumnName="Address" />
+                <ScalarProperty Name="Oblast" ColumnName="Oblast" />
+                <ScalarProperty Name="bDelete" ColumnName="bDelete" />
+                <ScalarProperty Name="TypeODB" ColumnName="TypeODB" />
+                <ScalarProperty Name="AccountPayment" ColumnName="AccountPayment" />
+                <ScalarProperty Name="UnpPayment" ColumnName="UnpPayment" />
+                <ScalarProperty Name="TimeCreationQuery" ColumnName="TimeCreationQuery" />
+                <ScalarProperty Name="PreviousDay" ColumnName="PreviousDay" />
+                <ScalarProperty Name="OutputDirectory" ColumnName="OutputDirectory" />
+                <ScalarProperty Name="ReportThen" ColumnName="ReportThen" />
+                <ScalarProperty Name="OblastTwo" ColumnName="OblastTwo" />
+                <ScalarProperty Name="BikIban" ColumnName="BikIban" />
+                <ScalarProperty Name="TypeOfSettelmentId" ColumnName="TypeOfSettelmentId" />
+                <ScalarProperty Name="Locality" ColumnName="Locality" />
+                <ScalarProperty Name="OrgSapId" ColumnName="OrgSapId" />
+                <ScalarProperty Name="OperationClose" ColumnName="OperationClose" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="vBankUserInfo">
+            <EntityTypeMapping TypeName="AdminModel.vBankUserInfo">
+              <MappingFragment StoreEntitySet="vBankUserInfo">
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="ClientID" ColumnName="ClientID" />
+                <ScalarProperty Name="Login" ColumnName="Login" />
+                <ScalarProperty Name="Password" ColumnName="Password" />
+                <ScalarProperty Name="IDKey" ColumnName="IDKey" />
+                <ScalarProperty Name="KeySN" ColumnName="KeySN" />
+                <ScalarProperty Name="LoginNo" ColumnName="LoginNo" />
+                <ScalarProperty Name="bLogin" ColumnName="bLogin" />
+                <ScalarProperty Name="CodeARM" ColumnName="CodeARM" />
+                <ScalarProperty Name="LevelAccess" ColumnName="LevelAccess" />
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="LastName" ColumnName="LastName" />
+                <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+                <ScalarProperty Name="MiddleName" ColumnName="MiddleName" />
+                <ScalarProperty Name="DayOper" ColumnName="DayOper" />
+                <ScalarProperty Name="DateChangePassword" ColumnName="DateChangePassword" />
+                <ScalarProperty Name="PeriodChangePassword" ColumnName="PeriodChangePassword" />
+                <ScalarProperty Name="FlagChangePassword" ColumnName="FlagChangePassword" />
+                <ScalarProperty Name="CountChangePassword" ColumnName="CountChangePassword" />
+                <ScalarProperty Name="DateNewChangePassword" ColumnName="DateNewChangePassword" />
+                <ScalarProperty Name="bWork" ColumnName="bWork" />
+                <ScalarProperty Name="DateCreation" ColumnName="DateCreation" />
+                <ScalarProperty Name="ExitNoChangePassword" ColumnName="ExitNoChangePassword" />
+                <ScalarProperty Name="DateBlock" ColumnName="DateBlock" />
+                <ScalarProperty Name="ErrorLoginNo" ColumnName="ErrorLoginNo" />
+                <ScalarProperty Name="DateErrorLoginNo" ColumnName="DateErrorLoginNo" />
+                <ScalarProperty Name="DayBlockErrorLogin" ColumnName="DayBlockErrorLogin" />
+                <ScalarProperty Name="CountDayBlockErrorLogin" ColumnName="CountDayBlockErrorLogin" />
+                <ScalarProperty Name="DateBlockLogin" ColumnName="DateBlockLogin" />
+                <ScalarProperty Name="UserTechnical" ColumnName="UserTechnical" />
+                <ScalarProperty Name="UserCodeSAPDM" ColumnName="UserCodeSAPDM" />
+                <ScalarProperty Name="Mfo" ColumnName="Mfo" />
+                <ScalarProperty Name="OrgunitCode" ColumnName="OrgunitCode" />
+                <ScalarProperty Name="TypeODB" ColumnName="TypeODB" />
+                <ScalarProperty Name="IDRoli" ColumnName="IDRoli" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="NameRoli" ColumnName="NameRoli" />
+                <ScalarProperty Name="BikIban" ColumnName="BikIban" />
+                <ScalarProperty Name="LastBlockDate" ColumnName="LastBlockDate" />
+                <ScalarProperty Name="PrSaleManager" ColumnName="PrSaleManager" />
+                <ScalarProperty Name="PrExecuteDeposit" ColumnName="PrExecuteDeposit" />
+                <ScalarProperty Name="UserCodeCSRUB" ColumnName="UserCodeCSRUB" />
+                <ScalarProperty Name="PrRecvdoca" ColumnName="PrRecvdoca" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <FunctionImportMapping FunctionImportName="LUserARM" FunctionName="AdminModel.Store.LUserARM">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="AdminModel.LUserARM_Result">
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="ClientID" ColumnName="ClientID" />
+                <ScalarProperty Name="Login" ColumnName="Login" />
+                <ScalarProperty Name="Password" ColumnName="Password" />
+                <ScalarProperty Name="IDKey" ColumnName="IDKey" />
+                <ScalarProperty Name="KeySN" ColumnName="KeySN" />
+                <ScalarProperty Name="LoginNo" ColumnName="LoginNo" />
+                <ScalarProperty Name="bLogin" ColumnName="bLogin" />
+                <ScalarProperty Name="CodeARM" ColumnName="CodeARM" />
+                <ScalarProperty Name="LevelAccess" ColumnName="LevelAccess" />
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="LastName" ColumnName="LastName" />
+                <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+                <ScalarProperty Name="MiddleName" ColumnName="MiddleName" />
+                <ScalarProperty Name="DayOper" ColumnName="DayOper" />
+                <ScalarProperty Name="DateChangePassword" ColumnName="DateChangePassword" />
+                <ScalarProperty Name="PeriodChangePassword" ColumnName="PeriodChangePassword" />
+                <ScalarProperty Name="FlagChangePassword" ColumnName="FlagChangePassword" />
+                <ScalarProperty Name="CountChangePassword" ColumnName="CountChangePassword" />
+                <ScalarProperty Name="DateNewChangePassword" ColumnName="DateNewChangePassword" />
+                <ScalarProperty Name="bWork" ColumnName="bWork" />
+                <ScalarProperty Name="DateCreation" ColumnName="DateCreation" />
+                <ScalarProperty Name="ExitNoChangePassword" ColumnName="ExitNoChangePassword" />
+                <ScalarProperty Name="DateBlock" ColumnName="DateBlock" />
+                <ScalarProperty Name="ErrorLoginNo" ColumnName="ErrorLoginNo" />
+                <ScalarProperty Name="DateErrorLoginNo" ColumnName="DateErrorLoginNo" />
+                <ScalarProperty Name="DayBlockErrorLogin" ColumnName="DayBlockErrorLogin" />
+                <ScalarProperty Name="CountDayBlockErrorLogin" ColumnName="CountDayBlockErrorLogin" />
+                <ScalarProperty Name="DateBlockLogin" ColumnName="DateBlockLogin" />
+                <ScalarProperty Name="UserTechnical" ColumnName="UserTechnical" />
+                <ScalarProperty Name="UserCodeSAPDM" ColumnName="UserCodeSAPDM" />
+                <ScalarProperty Name="Mfo" ColumnName="Mfo" />
+                <ScalarProperty Name="OrgunitCode" ColumnName="OrgunitCode" />
+                <ScalarProperty Name="TypeODB" ColumnName="TypeODB" />
+                <ScalarProperty Name="IDRoli" ColumnName="IDRoli" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="NameRoli" ColumnName="NameRoli" />
+                <ScalarProperty Name="BikIban" ColumnName="BikIban" />
+                <ScalarProperty Name="LastBlockDate" ColumnName="LastBlockDate" />
+                <ScalarProperty Name="PrSaleManager" ColumnName="PrSaleManager" />
+                <ScalarProperty Name="PrExecuteDeposit" ColumnName="PrExecuteDeposit" />
+                <ScalarProperty Name="UserCodeCSRUB" ColumnName="UserCodeCSRUB" />
+                <ScalarProperty Name="PrRecvdoca" ColumnName="PrRecvdoca" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

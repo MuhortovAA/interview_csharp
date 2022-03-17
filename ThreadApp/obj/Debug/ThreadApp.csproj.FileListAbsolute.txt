@@ -1,0 +1,15 @@
+C:\Users\b00001174\source\repos\Project1\ThreadApp\bin\Debug\ThreadApp.exe.config
+C:\Users\b00001174\source\repos\Project1\ThreadApp\bin\Debug\ThreadApp.exe
+C:\Users\b00001174\source\repos\Project1\ThreadApp\bin\Debug\ThreadApp.pdb
+C:\Users\b00001174\source\repos\Project1\ThreadApp\obj\Debug\ThreadApp.csproj.AssemblyReference.cache
+C:\Users\b00001174\source\repos\Project1\ThreadApp\obj\Debug\ThreadApp.csproj.CoreCompileInputs.cache
+C:\Users\b00001174\source\repos\Project1\ThreadApp\obj\Debug\ThreadApp.exe
+C:\Users\b00001174\source\repos\Project1\ThreadApp\obj\Debug\ThreadApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ThreadApp\bin\Debug\ThreadApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ThreadApp\bin\Debug\ThreadApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ThreadApp\bin\Debug\ThreadApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ThreadApp\obj\Debug\ThreadApp.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ThreadApp\obj\Debug\ThreadApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ThreadApp\obj\Debug\ThreadApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ThreadApp\obj\Debug\ThreadApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ThreadApp\obj\Debug\ThreadApp.pdb

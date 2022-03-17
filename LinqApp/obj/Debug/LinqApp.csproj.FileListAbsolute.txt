@@ -1,0 +1,13 @@
+C:\Users\b00001174\source\repos\Project1\LinqApp\bin\Debug\LinqApp.exe.config
+C:\Users\b00001174\source\repos\Project1\LinqApp\bin\Debug\LinqApp.exe
+C:\Users\b00001174\source\repos\Project1\LinqApp\bin\Debug\LinqApp.pdb
+C:\Users\b00001174\source\repos\Project1\LinqApp\obj\Debug\LinqApp.csproj.CoreCompileInputs.cache
+C:\Users\b00001174\source\repos\Project1\LinqApp\obj\Debug\LinqApp.exe
+C:\Users\b00001174\source\repos\Project1\LinqApp\obj\Debug\LinqApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\LinqApp\bin\Debug\LinqApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\LinqApp\bin\Debug\LinqApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\LinqApp\bin\Debug\LinqApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\LinqApp\obj\Debug\LinqApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\LinqApp\obj\Debug\LinqApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\LinqApp\obj\Debug\LinqApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\LinqApp\obj\Debug\LinqApp.pdb

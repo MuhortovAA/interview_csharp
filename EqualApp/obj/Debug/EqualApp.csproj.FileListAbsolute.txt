@@ -1,0 +1,14 @@
+C:\Users\b00001174\source\repos\Project1\EqualApp\bin\Debug\EqualApp.exe.config
+C:\Users\b00001174\source\repos\Project1\EqualApp\bin\Debug\EqualApp.exe
+C:\Users\b00001174\source\repos\Project1\EqualApp\bin\Debug\EqualApp.pdb
+C:\Users\b00001174\source\repos\Project1\EqualApp\obj\Debug\EqualApp.csproj.CoreCompileInputs.cache
+C:\Users\b00001174\source\repos\Project1\EqualApp\obj\Debug\EqualApp.exe
+C:\Users\b00001174\source\repos\Project1\EqualApp\obj\Debug\EqualApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\EqualApp\bin\Debug\EqualApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\EqualApp\bin\Debug\EqualApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\EqualApp\bin\Debug\EqualApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\EqualApp\obj\Debug\EqualApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\EqualApp\obj\Debug\EqualApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\EqualApp\obj\Debug\EqualApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\EqualApp\obj\Debug\EqualApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\EqualApp\obj\Debug\EqualApp.csproj.AssemblyReference.cache

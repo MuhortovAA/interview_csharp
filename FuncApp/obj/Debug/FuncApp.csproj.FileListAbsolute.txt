@@ -1,0 +1,8 @@
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\FuncApp\bin\Debug\FuncApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\FuncApp\bin\Debug\FuncApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\FuncApp\bin\Debug\FuncApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\FuncApp\obj\Debug\FuncApp.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\FuncApp\obj\Debug\FuncApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\FuncApp\obj\Debug\FuncApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\FuncApp\obj\Debug\FuncApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\FuncApp\obj\Debug\FuncApp.pdb

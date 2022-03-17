@@ -1,0 +1,15 @@
+C:\Users\b00001174\source\repos\Project1\profweb1\bin\Debug\profweb1.exe.config
+C:\Users\b00001174\source\repos\Project1\profweb1\bin\Debug\profweb1.exe
+C:\Users\b00001174\source\repos\Project1\profweb1\bin\Debug\profweb1.pdb
+C:\Users\b00001174\source\repos\Project1\profweb1\obj\Debug\profweb1.csproj.AssemblyReference.cache
+C:\Users\b00001174\source\repos\Project1\profweb1\obj\Debug\profweb1.csproj.CoreCompileInputs.cache
+C:\Users\b00001174\source\repos\Project1\profweb1\obj\Debug\profweb1.exe
+C:\Users\b00001174\source\repos\Project1\profweb1\obj\Debug\profweb1.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\profweb1\bin\Debug\profweb1.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\profweb1\bin\Debug\profweb1.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\profweb1\bin\Debug\profweb1.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\profweb1\obj\Debug\profweb1.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\profweb1\obj\Debug\profweb1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\profweb1\obj\Debug\profweb1.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\profweb1\obj\Debug\profweb1.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\profweb1\obj\Debug\profweb1.pdb

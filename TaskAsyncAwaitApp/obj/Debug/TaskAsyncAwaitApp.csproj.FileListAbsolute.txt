@@ -1,0 +1,13 @@
+C:\Users\b00001174\source\repos\Project1\TaskAsyncAwaitApp\bin\Debug\TaskAsyncAwaitApp.exe.config
+C:\Users\b00001174\source\repos\Project1\TaskAsyncAwaitApp\bin\Debug\TaskAsyncAwaitApp.exe
+C:\Users\b00001174\source\repos\Project1\TaskAsyncAwaitApp\bin\Debug\TaskAsyncAwaitApp.pdb
+C:\Users\b00001174\source\repos\Project1\TaskAsyncAwaitApp\obj\Debug\TaskAsyncAwaitApp.csproj.CoreCompileInputs.cache
+C:\Users\b00001174\source\repos\Project1\TaskAsyncAwaitApp\obj\Debug\TaskAsyncAwaitApp.exe
+C:\Users\b00001174\source\repos\Project1\TaskAsyncAwaitApp\obj\Debug\TaskAsyncAwaitApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskAsyncAwaitApp\bin\Debug\TaskAsyncAwaitApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskAsyncAwaitApp\bin\Debug\TaskAsyncAwaitApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskAsyncAwaitApp\bin\Debug\TaskAsyncAwaitApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskAsyncAwaitApp\obj\Debug\TaskAsyncAwaitApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskAsyncAwaitApp\obj\Debug\TaskAsyncAwaitApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskAsyncAwaitApp\obj\Debug\TaskAsyncAwaitApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskAsyncAwaitApp\obj\Debug\TaskAsyncAwaitApp.pdb

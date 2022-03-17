@@ -1,0 +1,10 @@
+C:\Users\b00001174\source\repos\Project1\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Users\b00001174\source\repos\Project1\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Users\b00001174\source\repos\Project1\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\b00001174\source\repos\Project1\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\Users\b00001174\source\repos\Project1\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\MyClassLibrary\obj\Debug\MyClassLibrary.pdb

@@ -1,0 +1,13 @@
+C:\Users\b00001174\source\repos\Project1\NineCSharpApp\bin\Debug\NineCSharpApp.exe.config
+C:\Users\b00001174\source\repos\Project1\NineCSharpApp\bin\Debug\NineCSharpApp.exe
+C:\Users\b00001174\source\repos\Project1\NineCSharpApp\bin\Debug\NineCSharpApp.pdb
+C:\Users\b00001174\source\repos\Project1\NineCSharpApp\obj\Debug\NineCSharpApp.csproj.CoreCompileInputs.cache
+C:\Users\b00001174\source\repos\Project1\NineCSharpApp\obj\Debug\NineCSharpApp.exe
+C:\Users\b00001174\source\repos\Project1\NineCSharpApp\obj\Debug\NineCSharpApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\NineCSharpApp\bin\Debug\NineCSharpApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\NineCSharpApp\bin\Debug\NineCSharpApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\NineCSharpApp\bin\Debug\NineCSharpApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\NineCSharpApp\obj\Debug\NineCSharpApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\NineCSharpApp\obj\Debug\NineCSharpApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\NineCSharpApp\obj\Debug\NineCSharpApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\NineCSharpApp\obj\Debug\NineCSharpApp.pdb

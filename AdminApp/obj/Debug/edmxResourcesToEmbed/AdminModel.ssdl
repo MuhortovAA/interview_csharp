@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AdminModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'myData.Bank.Branches' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Branches">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="Mfo" />
+      <PropertyRef Name="Name" />
+      <PropertyRef Name="Address" />
+      <PropertyRef Name="Oblast" />
+      <PropertyRef Name="bDelete" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="Mfo" Type="varchar" MaxLength="9" Nullable="false" />
+    <Property Name="Filial" Type="varchar" MaxLength="7" />
+    <Property Name="CBY" Type="varchar" MaxLength="7" />
+    <Property Name="Otdelenie" Type="varchar" MaxLength="7" />
+    <Property Name="Name" Type="varchar" MaxLength="105" Nullable="false" />
+    <Property Name="Address" Type="varchar" MaxLength="105" Nullable="false" />
+    <Property Name="Oblast" Type="varchar" MaxLength="105" Nullable="false" />
+    <Property Name="bDelete" Type="bit" Nullable="false" />
+    <Property Name="TypeODB" Type="int" />
+    <Property Name="AccountPayment" Type="nvarchar" MaxLength="50" />
+    <Property Name="UnpPayment" Type="nvarchar" MaxLength="50" />
+    <Property Name="TimeCreationQuery" Type="time" Precision="7" />
+    <Property Name="PreviousDay" Type="bit" />
+    <Property Name="OutputDirectory" Type="nvarchar" MaxLength="250" />
+    <Property Name="ReportThen" Type="int" />
+    <Property Name="OblastTwo" Type="varchar" MaxLength="105" />
+    <Property Name="BikIban" Type="nvarchar" MaxLength="20" />
+    <Property Name="TypeOfSettelmentId" Type="int" />
+    <Property Name="Locality" Type="nvarchar" MaxLength="50" />
+    <Property Name="OrgSapId" Type="varchar" MaxLength="20" />
+    <Property Name="OperationClose" Type="bit" />
+  </EntityType>
+  <EntityType Name="UserRoli">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserBankID" Type="int" Nullable="false" />
+    <Property Name="CodeRoliID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="UsersBank">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ClientID" Type="int" Nullable="false" />
+    <Property Name="LastName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="FirstName" Type="varchar" MaxLength="50" />
+    <Property Name="MiddleName" Type="varchar" MaxLength="50" />
+    <Property Name="Login" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Phones" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="50" />
+    <Property Name="Password" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="bBloc" Type="tinyint" />
+    <Property Name="IDKey" Type="varchar" MaxLength="8" Nullable="false" />
+    <Property Name="KeySN" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="bWork" Type="bit" />
+    <Property Name="DateWorks" Type="date" />
+    <Property Name="LoginNo" Type="int" />
+    <Property Name="bLogin" Type="tinyint" />
+    <Property Name="IDRoli" Type="int" Nullable="false" />
+    <Property Name="DateCreation" Type="date" Nullable="false" />
+    <Property Name="DateLogin" Type="date" />
+    <Property Name="DateBlock" Type="date" />
+    <Property Name="DateChangePassword" Type="date" />
+    <Property Name="PeriodChangePassword" Type="tinyint" />
+    <Property Name="FlagChangePassword" Type="bit" />
+    <Property Name="CountChangePassword" Type="tinyint" />
+    <Property Name="DayOper" Type="int" />
+    <Property Name="DateNewChangePassword" Type="date" />
+    <Property Name="ExitNoChangePassword" Type="tinyint" />
+    <Property Name="ErrorLoginNo" Type="int" />
+    <Property Name="DateErrorLoginNo" Type="datetime" />
+    <Property Name="DayBlockErrorLogin" Type="int" />
+    <Property Name="CountDayBlockErrorLogin" Type="int" />
+    <Property Name="DateBlockLogin" Type="datetime" />
+    <Property Name="UserTechnical" Type="bit" />
+    <Property Name="UserCodeSAPDM" Type="varchar" MaxLength="12" />
+    <Property Name="OrgunitCode" Type="int" />
+    <Property Name="ReceiveLetters" Type="bit" />
+    <Property Name="ReceiveTechnicalMessages" Type="bit" />
+    <Property Name="LastBlockDate" Type="date" />
+    <Property Name="PrSaleManager" Type="bit" />
+    <Property Name="PrExecuteDeposit" Type="bit" />
+    <Property Name="UserCodeCSRUB" Type="varchar" MaxLength="50" />
+    <Property Name="PrRecvdoca" Type="bit" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'myData.dbo.2' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="2">
+          <Property Name="IDCLI" Type="varchar" MaxLength="50" />
+          <Property Name="NameFile" Type="varchar" MaxLength="50" />
+          <Property Name="Acc_d" Type="varchar" MaxLength="50" />
+          <Property Name="Acc_k" Type="varchar" MaxLength="50" />
+          <Property Name="acc_sp" Type="varchar" MaxLength="50" />
+          <Property Name="TarCodeBnk" Type="varchar" MaxLength="50" />
+          <Property Name="srccodebnk" Type="varchar" MaxLength="50" />
+          <Property Name="Ammount" Type="varchar" MaxLength="50" />
+          <Property Name="Ammount3" Type="varchar" MaxLength="50" />
+          <Property Name="AmmountE" Type="varchar" MaxLength="50" />
+          <Property Name="AmmountE3" Type="varchar" MaxLength="50" />
+          <Property Name="ISO_P" Type="varchar" MaxLength="50" />
+          <Property Name="DopInfo" Type="varchar" MaxLength="50" />
+          <Property Name="conv" Type="varchar" MaxLength="50" />
+          <Property Name="vidS" Type="varchar" MaxLength="50" />
+          <Property Name="Pril" Type="varchar" MaxLength="50" />
+          <Property Name="ViYes 1 " Type="varchar" MaxLength="50" />
+          <Property Name="ViYes 2 " Type="varchar" MaxLength="50" />
+          <Property Name="kd 1 " Type="varchar" MaxLength="50" />
+          <Property Name="kd 2 " Type="varchar" MaxLength="50" />
+          <Property Name="Folder 1 " Type="varchar" MaxLength="50" />
+          <Property Name="Folder 2 " Type="varchar" MaxLength="50" />
+          <Property Name="FolderSp" Type="varchar" MaxLength="50" />
+          <Property Name="NOtdelen" Type="varchar" MaxLength="50" />
+          <Property Name="type_sp" Type="varchar" MaxLength="50" />
+        </EntityType>-->
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'myData.dbo.myCustomers' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="myCustomers">
+          <Property Name="clientid" Type="nvarchar(max)" />
+          <Property Name="elclientid" Type="nvarchar(max)" />
+          <Property Name="clientname" Type="nvarchar(max)" />
+          <Property Name="code" Type="nvarchar(max)" />
+        </EntityType>-->
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'myData.dbo.myUser_Oracl' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="myUser_Oracl">
+          <Property Name="NEW_USERID" Type="nvarchar(max)" />
+          <Property Name="OLD_USERID" Type="nvarchar(max)" />
+          <Property Name="USERNAME" Type="nvarchar(max)" />
+          <Property Name="FULLUSERNAME" Type="nvarchar(max)" />
+        </EntityType>-->
+  <EntityType Name="roli">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="200" />
+    <Property Name="CodeARM" Type="tinyint" Nullable="false" />
+    <Property Name="LevelAccess" Type="tinyint" Nullable="false" />
+    <Property Name="PoliticAccess" Type="nvarchar" MaxLength="600" Nullable="false" />
+    <Property Name="Comment" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="IsDelete" Type="bit" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'myData.Bank.vBankUserInfo' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="vBankUserInfo">
+    <Key>
+      <PropertyRef Name="ClientID" />
+      <PropertyRef Name="Login" />
+      <PropertyRef Name="Password" />
+      <PropertyRef Name="IDKey" />
+      <PropertyRef Name="KeySN" />
+      <PropertyRef Name="id" />
+      <PropertyRef Name="LastName" />
+      <PropertyRef Name="DateCreation" />
+      <PropertyRef Name="IDRoli" />
+    </Key>
+    <Property Name="Name" Type="varchar" MaxLength="105" />
+    <Property Name="ClientID" Type="int" Nullable="false" />
+    <Property Name="Login" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Password" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="IDKey" Type="varchar" MaxLength="8" Nullable="false" />
+    <Property Name="KeySN" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="LoginNo" Type="int" />
+    <Property Name="bLogin" Type="tinyint" />
+    <Property Name="CodeARM" Type="tinyint" />
+    <Property Name="LevelAccess" Type="tinyint" />
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="LastName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="FirstName" Type="varchar" MaxLength="50" />
+    <Property Name="MiddleName" Type="varchar" MaxLength="50" />
+    <Property Name="DayOper" Type="int" />
+    <Property Name="DateChangePassword" Type="date" />
+    <Property Name="PeriodChangePassword" Type="tinyint" />
+    <Property Name="FlagChangePassword" Type="bit" />
+    <Property Name="CountChangePassword" Type="tinyint" />
+    <Property Name="DateNewChangePassword" Type="date" />
+    <Property Name="bWork" Type="bit" />
+    <Property Name="DateCreation" Type="date" Nullable="false" />
+    <Property Name="ExitNoChangePassword" Type="tinyint" />
+    <Property Name="DateBlock" Type="date" />
+    <Property Name="ErrorLoginNo" Type="int" />
+    <Property Name="DateErrorLoginNo" Type="datetime" />
+    <Property Name="DayBlockErrorLogin" Type="int" />
+    <Property Name="CountDayBlockErrorLogin" Type="int" />
+    <Property Name="DateBlockLogin" Type="datetime" />
+    <Property Name="UserTechnical" Type="bit" />
+    <Property Name="UserCodeSAPDM" Type="varchar" MaxLength="12" />
+    <Property Name="Mfo" Type="varchar" MaxLength="9" />
+    <Property Name="OrgunitCode" Type="int" />
+    <Property Name="TypeODB" Type="int" />
+    <Property Name="IDRoli" Type="int" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="50" />
+    <Property Name="NameRoli" Type="varchar" MaxLength="200" />
+    <Property Name="BikIban" Type="nvarchar" MaxLength="20" />
+    <Property Name="LastBlockDate" Type="date" />
+    <Property Name="PrSaleManager" Type="bit" />
+    <Property Name="PrExecuteDeposit" Type="bit" />
+    <Property Name="UserCodeCSRUB" Type="varchar" MaxLength="50" />
+    <Property Name="PrRecvdoca" Type="bit" />
+  </EntityType>
+  <Function Name="LUserARM" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="Bank">
+    <Parameter Name="Login" Type="varchar" Mode="In" />
+    <Parameter Name="Password" Type="varchar" Mode="In" />
+    <Parameter Name="KeySN" Type="varchar" Mode="In" />
+    <Parameter Name="TypeArmID" Type="int" Mode="In" />
+    <Parameter Name="ErrorCode" Type="int" Mode="InOut" />
+  </Function>
+  <EntityContainer Name="AdminModelStoreContainer">
+    <EntitySet Name="UserRoli" EntityType="Self.UserRoli" Schema="Bank" store:Type="Tables" />
+    <EntitySet Name="UsersBank" EntityType="Self.UsersBank" Schema="Bank" store:Type="Tables" />
+    <EntitySet Name="roli" EntityType="Self.roli" Schema="Referencies" store:Type="Tables" />
+    <EntitySet Name="Branches" EntityType="Self.Branches" store:Type="Tables" store:Schema="Bank">
+      <DefiningQuery>SELECT 
+    [Branches].[ID] AS [ID], 
+    [Branches].[Mfo] AS [Mfo], 
+    [Branches].[Filial] AS [Filial], 
+    [Branches].[CBY] AS [CBY], 
+    [Branches].[Otdelenie] AS [Otdelenie], 
+    [Branches].[Name] AS [Name], 
+    [Branches].[Address] AS [Address], 
+    [Branches].[Oblast] AS [Oblast], 
+    [Branches].[bDelete] AS [bDelete], 
+    [Branches].[TypeODB] AS [TypeODB], 
+    [Branches].[AccountPayment] AS [AccountPayment], 
+    [Branches].[UnpPayment] AS [UnpPayment], 
+    [Branches].[TimeCreationQuery] AS [TimeCreationQuery], 
+    [Branches].[PreviousDay] AS [PreviousDay], 
+    [Branches].[OutputDirectory] AS [OutputDirectory], 
+    [Branches].[ReportThen] AS [ReportThen], 
+    [Branches].[OblastTwo] AS [OblastTwo], 
+    [Branches].[BikIban] AS [BikIban], 
+    [Branches].[TypeOfSettelmentId] AS [TypeOfSettelmentId], 
+    [Branches].[Locality] AS [Locality], 
+    [Branches].[OrgSapId] AS [OrgSapId], 
+    [Branches].[OperationClose] AS [OperationClose]
+    FROM [Bank].[Branches] AS [Branches]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="vBankUserInfo" EntityType="Self.vBankUserInfo" store:Type="Views" store:Schema="Bank">
+      <DefiningQuery>SELECT 
+    [vBankUserInfo].[Name] AS [Name], 
+    [vBankUserInfo].[ClientID] AS [ClientID], 
+    [vBankUserInfo].[Login] AS [Login], 
+    [vBankUserInfo].[Password] AS [Password], 
+    [vBankUserInfo].[IDKey] AS [IDKey], 
+    [vBankUserInfo].[KeySN] AS [KeySN], 
+    [vBankUserInfo].[LoginNo] AS [LoginNo], 
+    [vBankUserInfo].[bLogin] AS [bLogin], 
+    [vBankUserInfo].[CodeARM] AS [CodeARM], 
+    [vBankUserInfo].[LevelAccess] AS [LevelAccess], 
+    [vBankUserInfo].[id] AS [id], 
+    [vBankUserInfo].[LastName] AS [LastName], 
+    [vBankUserInfo].[FirstName] AS [FirstName], 
+    [vBankUserInfo].[MiddleName] AS [MiddleName], 
+    [vBankUserInfo].[DayOper] AS [DayOper], 
+    [vBankUserInfo].[DateChangePassword] AS [DateChangePassword], 
+    [vBankUserInfo].[PeriodChangePassword] AS [PeriodChangePassword], 
+    [vBankUserInfo].[FlagChangePassword] AS [FlagChangePassword], 
+    [vBankUserInfo].[CountChangePassword] AS [CountChangePassword], 
+    [vBankUserInfo].[DateNewChangePassword] AS [DateNewChangePassword], 
+    [vBankUserInfo].[bWork] AS [bWork], 
+    [vBankUserInfo].[DateCreation] AS [DateCreation], 
+    [vBankUserInfo].[ExitNoChangePassword] AS [ExitNoChangePassword], 
+    [vBankUserInfo].[DateBlock] AS [DateBlock], 
+    [vBankUserInfo].[ErrorLoginNo] AS [ErrorLoginNo], 
+    [vBankUserInfo].[DateErrorLoginNo] AS [DateErrorLoginNo], 
+    [vBankUserInfo].[DayBlockErrorLogin] AS [DayBlockErrorLogin], 
+    [vBankUserInfo].[CountDayBlockErrorLogin] AS [CountDayBlockErrorLogin], 
+    [vBankUserInfo].[DateBlockLogin] AS [DateBlockLogin], 
+    [vBankUserInfo].[UserTechnical] AS [UserTechnical], 
+    [vBankUserInfo].[UserCodeSAPDM] AS [UserCodeSAPDM], 
+    [vBankUserInfo].[Mfo] AS [Mfo], 
+    [vBankUserInfo].[OrgunitCode] AS [OrgunitCode], 
+    [vBankUserInfo].[TypeODB] AS [TypeODB], 
+    [vBankUserInfo].[IDRoli] AS [IDRoli], 
+    [vBankUserInfo].[Email] AS [Email], 
+    [vBankUserInfo].[NameRoli] AS [NameRoli], 
+    [vBankUserInfo].[BikIban] AS [BikIban], 
+    [vBankUserInfo].[LastBlockDate] AS [LastBlockDate], 
+    [vBankUserInfo].[PrSaleManager] AS [PrSaleManager], 
+    [vBankUserInfo].[PrExecuteDeposit] AS [PrExecuteDeposit], 
+    [vBankUserInfo].[UserCodeCSRUB] AS [UserCodeCSRUB], 
+    [vBankUserInfo].[PrRecvdoca] AS [PrRecvdoca]
+    FROM [Bank].[vBankUserInfo] AS [vBankUserInfo]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

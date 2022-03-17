@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AdminModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="UserRoli">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserBankID" Type="Int32" Nullable="false" />
+    <Property Name="CodeRoliID" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="UsersBank">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ClientID" Type="Int32" Nullable="false" />
+    <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MiddleName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Login" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Phones" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Password" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="bBloc" Type="Byte" />
+    <Property Name="IDKey" Type="String" MaxLength="8" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="KeySN" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="bWork" Type="Boolean" />
+    <Property Name="DateWorks" Type="DateTime" Precision="0" />
+    <Property Name="LoginNo" Type="Int32" />
+    <Property Name="bLogin" Type="Byte" />
+    <Property Name="IDRoli" Type="Int32" Nullable="false" />
+    <Property Name="DateCreation" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="DateLogin" Type="DateTime" Precision="0" />
+    <Property Name="DateBlock" Type="DateTime" Precision="0" />
+    <Property Name="DateChangePassword" Type="DateTime" Precision="0" />
+    <Property Name="PeriodChangePassword" Type="Byte" />
+    <Property Name="FlagChangePassword" Type="Boolean" />
+    <Property Name="CountChangePassword" Type="Byte" />
+    <Property Name="DayOper" Type="Int32" />
+    <Property Name="DateNewChangePassword" Type="DateTime" Precision="0" />
+    <Property Name="ExitNoChangePassword" Type="Byte" />
+    <Property Name="ErrorLoginNo" Type="Int32" />
+    <Property Name="DateErrorLoginNo" Type="DateTime" Precision="3" />
+    <Property Name="DayBlockErrorLogin" Type="Int32" />
+    <Property Name="CountDayBlockErrorLogin" Type="Int32" />
+    <Property Name="DateBlockLogin" Type="DateTime" Precision="3" />
+    <Property Name="UserTechnical" Type="Boolean" />
+    <Property Name="UserCodeSAPDM" Type="String" MaxLength="12" FixedLength="false" Unicode="false" />
+    <Property Name="OrgunitCode" Type="Int32" />
+    <Property Name="ReceiveLetters" Type="Boolean" />
+    <Property Name="ReceiveTechnicalMessages" Type="Boolean" />
+    <Property Name="LastBlockDate" Type="DateTime" Precision="0" />
+    <Property Name="PrSaleManager" Type="Boolean" />
+    <Property Name="PrExecuteDeposit" Type="Boolean" />
+    <Property Name="UserCodeCSRUB" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PrRecvdoca" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="roli">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Name="CodeARM" Type="Byte" Nullable="false" />
+    <Property Name="LevelAccess" Type="Byte" Nullable="false" />
+    <Property Name="PoliticAccess" Type="String" MaxLength="600" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Comment" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="IsDelete" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="Branches">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="Mfo" />
+      <PropertyRef Name="Name" />
+      <PropertyRef Name="Address" />
+      <PropertyRef Name="Oblast" />
+      <PropertyRef Name="bDelete" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="Mfo" Type="String" MaxLength="9" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Filial" Type="String" MaxLength="7" FixedLength="false" Unicode="false" />
+    <Property Name="CBY" Type="String" MaxLength="7" FixedLength="false" Unicode="false" />
+    <Property Name="Otdelenie" Type="String" MaxLength="7" FixedLength="false" Unicode="false" />
+    <Property Name="Name" Type="String" MaxLength="105" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Address" Type="String" MaxLength="105" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Oblast" Type="String" MaxLength="105" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="bDelete" Type="Boolean" Nullable="false" />
+    <Property Name="TypeODB" Type="Int32" />
+    <Property Name="AccountPayment" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="UnpPayment" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="TimeCreationQuery" Type="Time" Precision="7" />
+    <Property Name="PreviousDay" Type="Boolean" />
+    <Property Name="OutputDirectory" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="ReportThen" Type="Int32" />
+    <Property Name="OblastTwo" Type="String" MaxLength="105" FixedLength="false" Unicode="false" />
+    <Property Name="BikIban" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="TypeOfSettelmentId" Type="Int32" />
+    <Property Name="Locality" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="OrgSapId" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="OperationClose" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="vBankUserInfo">
+    <Key>
+      <PropertyRef Name="ClientID" />
+      <PropertyRef Name="Login" />
+      <PropertyRef Name="Password" />
+      <PropertyRef Name="IDKey" />
+      <PropertyRef Name="KeySN" />
+      <PropertyRef Name="id" />
+      <PropertyRef Name="LastName" />
+      <PropertyRef Name="DateCreation" />
+      <PropertyRef Name="IDRoli" />
+    </Key>
+    <Property Name="Name" Type="String" MaxLength="105" FixedLength="false" Unicode="false" />
+    <Property Name="ClientID" Type="Int32" Nullable="false" />
+    <Property Name="Login" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="IDKey" Type="String" MaxLength="8" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="KeySN" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="LoginNo" Type="Int32" />
+    <Property Name="bLogin" Type="Byte" />
+    <Property Name="CodeARM" Type="Byte" />
+    <Property Name="LevelAccess" Type="Byte" />
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MiddleName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="DayOper" Type="Int32" />
+    <Property Name="DateChangePassword" Type="DateTime" Precision="0" />
+    <Property Name="PeriodChangePassword" Type="Byte" />
+    <Property Name="FlagChangePassword" Type="Boolean" />
+    <Property Name="CountChangePassword" Type="Byte" />
+    <Property Name="DateNewChangePassword" Type="DateTime" Precision="0" />
+    <Property Name="bWork" Type="Boolean" />
+    <Property Name="DateCreation" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="ExitNoChangePassword" Type="Byte" />
+    <Property Name="DateBlock" Type="DateTime" Precision="0" />
+    <Property Name="ErrorLoginNo" Type="Int32" />
+    <Property Name="DateErrorLoginNo" Type="DateTime" Precision="3" />
+    <Property Name="DayBlockErrorLogin" Type="Int32" />
+    <Property Name="CountDayBlockErrorLogin" Type="Int32" />
+    <Property Name="DateBlockLogin" Type="DateTime" Precision="3" />
+    <Property Name="UserTechnical" Type="Boolean" />
+    <Property Name="UserCodeSAPDM" Type="String" MaxLength="12" FixedLength="false" Unicode="false" />
+    <Property Name="Mfo" Type="String" MaxLength="9" FixedLength="false" Unicode="false" />
+    <Property Name="OrgunitCode" Type="Int32" />
+    <Property Name="TypeODB" Type="Int32" />
+    <Property Name="IDRoli" Type="Int32" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="NameRoli" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Name="BikIban" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="LastBlockDate" Type="DateTime" Precision="0" />
+    <Property Name="PrSaleManager" Type="Boolean" />
+    <Property Name="PrExecuteDeposit" Type="Boolean" />
+    <Property Name="UserCodeCSRUB" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PrRecvdoca" Type="Boolean" />
+  </EntityType>
+  <EntityContainer Name="AdminEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="UserRoli" EntityType="Self.UserRoli" />
+    <EntitySet Name="UsersBank" EntityType="Self.UsersBank" />
+    <EntitySet Name="roli" EntityType="Self.roli" />
+    <EntitySet Name="Branches" EntityType="Self.Branches" />
+    <EntitySet Name="vBankUserInfo" EntityType="Self.vBankUserInfo" />
+    <FunctionImport Name="LUserARM" ReturnType="Collection(AdminModel.LUserARM_Result)">
+      <Parameter Name="Login" Mode="In" Type="String" />
+      <Parameter Name="Password" Mode="In" Type="String" />
+      <Parameter Name="KeySN" Mode="In" Type="String" />
+      <Parameter Name="TypeArmID" Mode="In" Type="Int32" />
+      <Parameter Name="ErrorCode" Mode="InOut" Type="Int32" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="LUserARM_Result">
+    <Property Type="String" Name="Name" Nullable="true" MaxLength="105" />
+    <Property Type="Int32" Name="ClientID" Nullable="false" />
+    <Property Type="String" Name="Login" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Password" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="IDKey" Nullable="false" MaxLength="8" />
+    <Property Type="String" Name="KeySN" Nullable="false" MaxLength="30" />
+    <Property Type="Int32" Name="LoginNo" Nullable="true" />
+    <Property Type="Byte" Name="bLogin" Nullable="true" />
+    <Property Type="Byte" Name="CodeARM" Nullable="true" />
+    <Property Type="Byte" Name="LevelAccess" Nullable="true" />
+    <Property Type="Int32" Name="id" Nullable="false" />
+    <Property Type="String" Name="LastName" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="FirstName" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="MiddleName" Nullable="true" MaxLength="50" />
+    <Property Type="Int32" Name="DayOper" Nullable="true" />
+    <Property Type="DateTime" Name="DateChangePassword" Nullable="true" />
+    <Property Type="Byte" Name="PeriodChangePassword" Nullable="true" />
+    <Property Type="Boolean" Name="FlagChangePassword" Nullable="true" />
+    <Property Type="Byte" Name="CountChangePassword" Nullable="true" />
+    <Property Type="DateTime" Name="DateNewChangePassword" Nullable="true" />
+    <Property Type="Boolean" Name="bWork" Nullable="true" />
+    <Property Type="DateTime" Name="DateCreation" Nullable="false" />
+    <Property Type="Byte" Name="ExitNoChangePassword" Nullable="true" />
+    <Property Type="DateTime" Name="DateBlock" Nullable="true" />
+    <Property Type="Int32" Name="ErrorLoginNo" Nullable="true" />
+    <Property Type="DateTime" Name="DateErrorLoginNo" Nullable="true" Precision="23" />
+    <Property Type="Int32" Name="DayBlockErrorLogin" Nullable="true" />
+    <Property Type="Int32" Name="CountDayBlockErrorLogin" Nullable="true" />
+    <Property Type="DateTime" Name="DateBlockLogin" Nullable="true" Precision="23" />
+    <Property Type="Boolean" Name="UserTechnical" Nullable="true" />
+    <Property Type="String" Name="UserCodeSAPDM" Nullable="true" MaxLength="12" />
+    <Property Type="String" Name="Mfo" Nullable="true" MaxLength="9" />
+    <Property Type="Int32" Name="OrgunitCode" Nullable="true" />
+    <Property Type="Int32" Name="TypeODB" Nullable="true" />
+    <Property Type="Int32" Name="IDRoli" Nullable="false" />
+    <Property Type="String" Name="Email" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="NameRoli" Nullable="true" MaxLength="200" />
+    <Property Type="String" Name="BikIban" Nullable="true" MaxLength="20" />
+    <Property Type="DateTime" Name="LastBlockDate" Nullable="true" />
+    <Property Type="Boolean" Name="PrSaleManager" Nullable="true" />
+    <Property Type="Boolean" Name="PrExecuteDeposit" Nullable="true" />
+    <Property Type="String" Name="UserCodeCSRUB" Nullable="true" MaxLength="50" />
+    <Property Type="Boolean" Name="PrRecvdoca" Nullable="true" />
+  </ComplexType>
+</Schema>

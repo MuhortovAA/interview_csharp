@@ -1,0 +1,13 @@
+C:\Users\b00001174\source\repos\Project1\StaticApp3\bin\Debug\StaticApp3.exe.config
+C:\Users\b00001174\source\repos\Project1\StaticApp3\bin\Debug\StaticApp3.exe
+C:\Users\b00001174\source\repos\Project1\StaticApp3\bin\Debug\StaticApp3.pdb
+C:\Users\b00001174\source\repos\Project1\StaticApp3\obj\Debug\StaticApp3.csproj.CoreCompileInputs.cache
+C:\Users\b00001174\source\repos\Project1\StaticApp3\obj\Debug\StaticApp3.exe
+C:\Users\b00001174\source\repos\Project1\StaticApp3\obj\Debug\StaticApp3.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\StaticApp3\bin\Debug\StaticApp3.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\StaticApp3\bin\Debug\StaticApp3.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\StaticApp3\bin\Debug\StaticApp3.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\StaticApp3\obj\Debug\StaticApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\StaticApp3\obj\Debug\StaticApp3.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\StaticApp3\obj\Debug\StaticApp3.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\StaticApp3\obj\Debug\StaticApp3.pdb

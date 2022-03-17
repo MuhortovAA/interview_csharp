@@ -1,0 +1,15 @@
+C:\Users\b00001174\source\repos\Project1\AbstarctApp\bin\Debug\AbstarctApp.exe.config
+C:\Users\b00001174\source\repos\Project1\AbstarctApp\bin\Debug\AbstarctApp.exe
+C:\Users\b00001174\source\repos\Project1\AbstarctApp\bin\Debug\AbstarctApp.pdb
+C:\Users\b00001174\source\repos\Project1\AbstarctApp\obj\Debug\AbstarctApp.csproj.AssemblyReference.cache
+C:\Users\b00001174\source\repos\Project1\AbstarctApp\obj\Debug\AbstarctApp.csproj.CoreCompileInputs.cache
+C:\Users\b00001174\source\repos\Project1\AbstarctApp\obj\Debug\AbstarctApp.exe
+C:\Users\b00001174\source\repos\Project1\AbstarctApp\obj\Debug\AbstarctApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\AbstarctApp\bin\Debug\AbstarctApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\AbstarctApp\bin\Debug\AbstarctApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\AbstarctApp\bin\Debug\AbstarctApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\AbstarctApp\obj\Debug\AbstarctApp.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\AbstarctApp\obj\Debug\AbstarctApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\AbstarctApp\obj\Debug\AbstarctApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\AbstarctApp\obj\Debug\AbstarctApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\AbstarctApp\obj\Debug\AbstarctApp.pdb

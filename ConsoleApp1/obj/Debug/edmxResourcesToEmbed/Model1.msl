@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="GTRMInfoModelStoreContainer" CdmEntityContainer="GTRMInfoEntities">
+    <EntitySetMapping Name="sprProgram">
+      <EntityTypeMapping TypeName="GTRMInfoModel.sprProgram">
+        <MappingFragment StoreEntitySet="sprProgram">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="bin" ColumnName="bin" />
+          <ScalarProperty Name="program" ColumnName="program" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

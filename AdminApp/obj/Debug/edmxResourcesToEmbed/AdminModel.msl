@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AdminModelStoreContainer" CdmEntityContainer="AdminEntities">
+    <EntitySetMapping Name="UserRoli">
+      <EntityTypeMapping TypeName="AdminModel.UserRoli">
+        <MappingFragment StoreEntitySet="UserRoli">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="UserBankID" ColumnName="UserBankID" />
+          <ScalarProperty Name="CodeRoliID" ColumnName="CodeRoliID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UsersBank">
+      <EntityTypeMapping TypeName="AdminModel.UsersBank">
+        <MappingFragment StoreEntitySet="UsersBank">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="ClientID" ColumnName="ClientID" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="MiddleName" ColumnName="MiddleName" />
+          <ScalarProperty Name="Login" ColumnName="Login" />
+          <ScalarProperty Name="Phones" ColumnName="Phones" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="bBloc" ColumnName="bBloc" />
+          <ScalarProperty Name="IDKey" ColumnName="IDKey" />
+          <ScalarProperty Name="KeySN" ColumnName="KeySN" />
+          <ScalarProperty Name="bWork" ColumnName="bWork" />
+          <ScalarProperty Name="DateWorks" ColumnName="DateWorks" />
+          <ScalarProperty Name="LoginNo" ColumnName="LoginNo" />
+          <ScalarProperty Name="bLogin" ColumnName="bLogin" />
+          <ScalarProperty Name="IDRoli" ColumnName="IDRoli" />
+          <ScalarProperty Name="DateCreation" ColumnName="DateCreation" />
+          <ScalarProperty Name="DateLogin" ColumnName="DateLogin" />
+          <ScalarProperty Name="DateBlock" ColumnName="DateBlock" />
+          <ScalarProperty Name="DateChangePassword" ColumnName="DateChangePassword" />
+          <ScalarProperty Name="PeriodChangePassword" ColumnName="PeriodChangePassword" />
+          <ScalarProperty Name="FlagChangePassword" ColumnName="FlagChangePassword" />
+          <ScalarProperty Name="CountChangePassword" ColumnName="CountChangePassword" />
+          <ScalarProperty Name="DayOper" ColumnName="DayOper" />
+          <ScalarProperty Name="DateNewChangePassword" ColumnName="DateNewChangePassword" />
+          <ScalarProperty Name="ExitNoChangePassword" ColumnName="ExitNoChangePassword" />
+          <ScalarProperty Name="ErrorLoginNo" ColumnName="ErrorLoginNo" />
+          <ScalarProperty Name="DateErrorLoginNo" ColumnName="DateErrorLoginNo" />
+          <ScalarProperty Name="DayBlockErrorLogin" ColumnName="DayBlockErrorLogin" />
+          <ScalarProperty Name="CountDayBlockErrorLogin" ColumnName="CountDayBlockErrorLogin" />
+          <ScalarProperty Name="DateBlockLogin" ColumnName="DateBlockLogin" />
+          <ScalarProperty Name="UserTechnical" ColumnName="UserTechnical" />
+          <ScalarProperty Name="UserCodeSAPDM" ColumnName="UserCodeSAPDM" />
+          <ScalarProperty Name="OrgunitCode" ColumnName="OrgunitCode" />
+          <ScalarProperty Name="ReceiveLetters" ColumnName="ReceiveLetters" />
+          <ScalarProperty Name="ReceiveTechnicalMessages" ColumnName="ReceiveTechnicalMessages" />
+          <ScalarProperty Name="LastBlockDate" ColumnName="LastBlockDate" />
+          <ScalarProperty Name="PrSaleManager" ColumnName="PrSaleManager" />
+          <ScalarProperty Name="PrExecuteDeposit" ColumnName="PrExecuteDeposit" />
+          <ScalarProperty Name="UserCodeCSRUB" ColumnName="UserCodeCSRUB" />
+          <ScalarProperty Name="PrRecvdoca" ColumnName="PrRecvdoca" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="roli">
+      <EntityTypeMapping TypeName="AdminModel.roli">
+        <MappingFragment StoreEntitySet="roli">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="CodeARM" ColumnName="CodeARM" />
+          <ScalarProperty Name="LevelAccess" ColumnName="LevelAccess" />
+          <ScalarProperty Name="PoliticAccess" ColumnName="PoliticAccess" />
+          <ScalarProperty Name="Comment" ColumnName="Comment" />
+          <ScalarProperty Name="IsDelete" ColumnName="IsDelete" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Branches">
+      <EntityTypeMapping TypeName="AdminModel.Branches">
+        <MappingFragment StoreEntitySet="Branches">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Mfo" ColumnName="Mfo" />
+          <ScalarProperty Name="Filial" ColumnName="Filial" />
+          <ScalarProperty Name="CBY" ColumnName="CBY" />
+          <ScalarProperty Name="Otdelenie" ColumnName="Otdelenie" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Oblast" ColumnName="Oblast" />
+          <ScalarProperty Name="bDelete" ColumnName="bDelete" />
+          <ScalarProperty Name="TypeODB" ColumnName="TypeODB" />
+          <ScalarProperty Name="AccountPayment" ColumnName="AccountPayment" />
+          <ScalarProperty Name="UnpPayment" ColumnName="UnpPayment" />
+          <ScalarProperty Name="TimeCreationQuery" ColumnName="TimeCreationQuery" />
+          <ScalarProperty Name="PreviousDay" ColumnName="PreviousDay" />
+          <ScalarProperty Name="OutputDirectory" ColumnName="OutputDirectory" />
+          <ScalarProperty Name="ReportThen" ColumnName="ReportThen" />
+          <ScalarProperty Name="OblastTwo" ColumnName="OblastTwo" />
+          <ScalarProperty Name="BikIban" ColumnName="BikIban" />
+          <ScalarProperty Name="TypeOfSettelmentId" ColumnName="TypeOfSettelmentId" />
+          <ScalarProperty Name="Locality" ColumnName="Locality" />
+          <ScalarProperty Name="OrgSapId" ColumnName="OrgSapId" />
+          <ScalarProperty Name="OperationClose" ColumnName="OperationClose" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vBankUserInfo">
+      <EntityTypeMapping TypeName="AdminModel.vBankUserInfo">
+        <MappingFragment StoreEntitySet="vBankUserInfo">
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ClientID" ColumnName="ClientID" />
+          <ScalarProperty Name="Login" ColumnName="Login" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="IDKey" ColumnName="IDKey" />
+          <ScalarProperty Name="KeySN" ColumnName="KeySN" />
+          <ScalarProperty Name="LoginNo" ColumnName="LoginNo" />
+          <ScalarProperty Name="bLogin" ColumnName="bLogin" />
+          <ScalarProperty Name="CodeARM" ColumnName="CodeARM" />
+          <ScalarProperty Name="LevelAccess" ColumnName="LevelAccess" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="MiddleName" ColumnName="MiddleName" />
+          <ScalarProperty Name="DayOper" ColumnName="DayOper" />
+          <ScalarProperty Name="DateChangePassword" ColumnName="DateChangePassword" />
+          <ScalarProperty Name="PeriodChangePassword" ColumnName="PeriodChangePassword" />
+          <ScalarProperty Name="FlagChangePassword" ColumnName="FlagChangePassword" />
+          <ScalarProperty Name="CountChangePassword" ColumnName="CountChangePassword" />
+          <ScalarProperty Name="DateNewChangePassword" ColumnName="DateNewChangePassword" />
+          <ScalarProperty Name="bWork" ColumnName="bWork" />
+          <ScalarProperty Name="DateCreation" ColumnName="DateCreation" />
+          <ScalarProperty Name="ExitNoChangePassword" ColumnName="ExitNoChangePassword" />
+          <ScalarProperty Name="DateBlock" ColumnName="DateBlock" />
+          <ScalarProperty Name="ErrorLoginNo" ColumnName="ErrorLoginNo" />
+          <ScalarProperty Name="DateErrorLoginNo" ColumnName="DateErrorLoginNo" />
+          <ScalarProperty Name="DayBlockErrorLogin" ColumnName="DayBlockErrorLogin" />
+          <ScalarProperty Name="CountDayBlockErrorLogin" ColumnName="CountDayBlockErrorLogin" />
+          <ScalarProperty Name="DateBlockLogin" ColumnName="DateBlockLogin" />
+          <ScalarProperty Name="UserTechnical" ColumnName="UserTechnical" />
+          <ScalarProperty Name="UserCodeSAPDM" ColumnName="UserCodeSAPDM" />
+          <ScalarProperty Name="Mfo" ColumnName="Mfo" />
+          <ScalarProperty Name="OrgunitCode" ColumnName="OrgunitCode" />
+          <ScalarProperty Name="TypeODB" ColumnName="TypeODB" />
+          <ScalarProperty Name="IDRoli" ColumnName="IDRoli" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="NameRoli" ColumnName="NameRoli" />
+          <ScalarProperty Name="BikIban" ColumnName="BikIban" />
+          <ScalarProperty Name="LastBlockDate" ColumnName="LastBlockDate" />
+          <ScalarProperty Name="PrSaleManager" ColumnName="PrSaleManager" />
+          <ScalarProperty Name="PrExecuteDeposit" ColumnName="PrExecuteDeposit" />
+          <ScalarProperty Name="UserCodeCSRUB" ColumnName="UserCodeCSRUB" />
+          <ScalarProperty Name="PrRecvdoca" ColumnName="PrRecvdoca" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="LUserARM" FunctionName="AdminModel.Store.LUserARM">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="AdminModel.LUserARM_Result">
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ClientID" ColumnName="ClientID" />
+          <ScalarProperty Name="Login" ColumnName="Login" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="IDKey" ColumnName="IDKey" />
+          <ScalarProperty Name="KeySN" ColumnName="KeySN" />
+          <ScalarProperty Name="LoginNo" ColumnName="LoginNo" />
+          <ScalarProperty Name="bLogin" ColumnName="bLogin" />
+          <ScalarProperty Name="CodeARM" ColumnName="CodeARM" />
+          <ScalarProperty Name="LevelAccess" ColumnName="LevelAccess" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="MiddleName" ColumnName="MiddleName" />
+          <ScalarProperty Name="DayOper" ColumnName="DayOper" />
+          <ScalarProperty Name="DateChangePassword" ColumnName="DateChangePassword" />
+          <ScalarProperty Name="PeriodChangePassword" ColumnName="PeriodChangePassword" />
+          <ScalarProperty Name="FlagChangePassword" ColumnName="FlagChangePassword" />
+          <ScalarProperty Name="CountChangePassword" ColumnName="CountChangePassword" />
+          <ScalarProperty Name="DateNewChangePassword" ColumnName="DateNewChangePassword" />
+          <ScalarProperty Name="bWork" ColumnName="bWork" />
+          <ScalarProperty Name="DateCreation" ColumnName="DateCreation" />
+          <ScalarProperty Name="ExitNoChangePassword" ColumnName="ExitNoChangePassword" />
+          <ScalarProperty Name="DateBlock" ColumnName="DateBlock" />
+          <ScalarProperty Name="ErrorLoginNo" ColumnName="ErrorLoginNo" />
+          <ScalarProperty Name="DateErrorLoginNo" ColumnName="DateErrorLoginNo" />
+          <ScalarProperty Name="DayBlockErrorLogin" ColumnName="DayBlockErrorLogin" />
+          <ScalarProperty Name="CountDayBlockErrorLogin" ColumnName="CountDayBlockErrorLogin" />
+          <ScalarProperty Name="DateBlockLogin" ColumnName="DateBlockLogin" />
+          <ScalarProperty Name="UserTechnical" ColumnName="UserTechnical" />
+          <ScalarProperty Name="UserCodeSAPDM" ColumnName="UserCodeSAPDM" />
+          <ScalarProperty Name="Mfo" ColumnName="Mfo" />
+          <ScalarProperty Name="OrgunitCode" ColumnName="OrgunitCode" />
+          <ScalarProperty Name="TypeODB" ColumnName="TypeODB" />
+          <ScalarProperty Name="IDRoli" ColumnName="IDRoli" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="NameRoli" ColumnName="NameRoli" />
+          <ScalarProperty Name="BikIban" ColumnName="BikIban" />
+          <ScalarProperty Name="LastBlockDate" ColumnName="LastBlockDate" />
+          <ScalarProperty Name="PrSaleManager" ColumnName="PrSaleManager" />
+          <ScalarProperty Name="PrExecuteDeposit" ColumnName="PrExecuteDeposit" />
+          <ScalarProperty Name="UserCodeCSRUB" ColumnName="UserCodeCSRUB" />
+          <ScalarProperty Name="PrRecvdoca" ColumnName="PrRecvdoca" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

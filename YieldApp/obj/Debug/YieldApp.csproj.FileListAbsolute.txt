@@ -1,0 +1,15 @@
+C:\Users\b00001174\source\repos\Project1\YieldApp\bin\Debug\YieldApp.exe.config
+C:\Users\b00001174\source\repos\Project1\YieldApp\bin\Debug\YieldApp.exe
+C:\Users\b00001174\source\repos\Project1\YieldApp\bin\Debug\YieldApp.pdb
+C:\Users\b00001174\source\repos\Project1\YieldApp\obj\Debug\YieldApp.csproj.AssemblyReference.cache
+C:\Users\b00001174\source\repos\Project1\YieldApp\obj\Debug\YieldApp.csproj.CoreCompileInputs.cache
+C:\Users\b00001174\source\repos\Project1\YieldApp\obj\Debug\YieldApp.exe
+C:\Users\b00001174\source\repos\Project1\YieldApp\obj\Debug\YieldApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\YieldApp\bin\Debug\YieldApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\YieldApp\bin\Debug\YieldApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\YieldApp\bin\Debug\YieldApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\YieldApp\obj\Debug\YieldApp.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\YieldApp\obj\Debug\YieldApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\YieldApp\obj\Debug\YieldApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\YieldApp\obj\Debug\YieldApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\YieldApp\obj\Debug\YieldApp.pdb

@@ -1,0 +1,15 @@
+C:\Users\b00001174\source\repos\Project1\RefOutApp\bin\Debug\RefOutApp.exe.config
+C:\Users\b00001174\source\repos\Project1\RefOutApp\bin\Debug\RefOutApp.exe
+C:\Users\b00001174\source\repos\Project1\RefOutApp\bin\Debug\RefOutApp.pdb
+C:\Users\b00001174\source\repos\Project1\RefOutApp\obj\Debug\RefOutApp.csproj.AssemblyReference.cache
+C:\Users\b00001174\source\repos\Project1\RefOutApp\obj\Debug\RefOutApp.csproj.CoreCompileInputs.cache
+C:\Users\b00001174\source\repos\Project1\RefOutApp\obj\Debug\RefOutApp.exe
+C:\Users\b00001174\source\repos\Project1\RefOutApp\obj\Debug\RefOutApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\RefOutApp\bin\Debug\RefOutApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\RefOutApp\bin\Debug\RefOutApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\RefOutApp\bin\Debug\RefOutApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\RefOutApp\obj\Debug\RefOutApp.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\RefOutApp\obj\Debug\RefOutApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\RefOutApp\obj\Debug\RefOutApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\RefOutApp\obj\Debug\RefOutApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\RefOutApp\obj\Debug\RefOutApp.pdb

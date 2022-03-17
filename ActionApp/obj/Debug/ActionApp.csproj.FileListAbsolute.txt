@@ -1,0 +1,15 @@
+C:\Users\b00001174\source\repos\Project1\ActionApp\bin\Debug\ActionApp.exe.config
+C:\Users\b00001174\source\repos\Project1\ActionApp\bin\Debug\ActionApp.exe
+C:\Users\b00001174\source\repos\Project1\ActionApp\bin\Debug\ActionApp.pdb
+C:\Users\b00001174\source\repos\Project1\ActionApp\obj\Debug\ActionApp.csproj.AssemblyReference.cache
+C:\Users\b00001174\source\repos\Project1\ActionApp\obj\Debug\ActionApp.csproj.CoreCompileInputs.cache
+C:\Users\b00001174\source\repos\Project1\ActionApp\obj\Debug\ActionApp.exe
+C:\Users\b00001174\source\repos\Project1\ActionApp\obj\Debug\ActionApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ActionApp\bin\Debug\ActionApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ActionApp\bin\Debug\ActionApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ActionApp\bin\Debug\ActionApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ActionApp\obj\Debug\ActionApp.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ActionApp\obj\Debug\ActionApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ActionApp\obj\Debug\ActionApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ActionApp\obj\Debug\ActionApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ActionApp\obj\Debug\ActionApp.pdb

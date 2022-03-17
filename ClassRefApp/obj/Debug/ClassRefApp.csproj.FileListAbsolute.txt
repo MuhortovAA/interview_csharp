@@ -1,0 +1,13 @@
+C:\Users\b00001174\source\repos\Project1\ClassRefApp\bin\Debug\ClassRefApp.exe.config
+C:\Users\b00001174\source\repos\Project1\ClassRefApp\bin\Debug\ClassRefApp.exe
+C:\Users\b00001174\source\repos\Project1\ClassRefApp\bin\Debug\ClassRefApp.pdb
+C:\Users\b00001174\source\repos\Project1\ClassRefApp\obj\Debug\ClassRefApp.csproj.CoreCompileInputs.cache
+C:\Users\b00001174\source\repos\Project1\ClassRefApp\obj\Debug\ClassRefApp.exe
+C:\Users\b00001174\source\repos\Project1\ClassRefApp\obj\Debug\ClassRefApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ClassRefApp\bin\Debug\ClassRefApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ClassRefApp\bin\Debug\ClassRefApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ClassRefApp\bin\Debug\ClassRefApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ClassRefApp\obj\Debug\ClassRefApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ClassRefApp\obj\Debug\ClassRefApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ClassRefApp\obj\Debug\ClassRefApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ClassRefApp\obj\Debug\ClassRefApp.pdb

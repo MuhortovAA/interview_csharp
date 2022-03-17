@@ -1,0 +1,13 @@
+C:\Users\b00001174\source\repos\Project1\Task03083App\bin\Debug\Task03083App.exe.config
+C:\Users\b00001174\source\repos\Project1\Task03083App\bin\Debug\Task03083App.exe
+C:\Users\b00001174\source\repos\Project1\Task03083App\bin\Debug\Task03083App.pdb
+C:\Users\b00001174\source\repos\Project1\Task03083App\obj\Debug\Task03083App.csproj.CoreCompileInputs.cache
+C:\Users\b00001174\source\repos\Project1\Task03083App\obj\Debug\Task03083App.exe
+C:\Users\b00001174\source\repos\Project1\Task03083App\obj\Debug\Task03083App.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\Task03083App\bin\Debug\Task03083App.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\Task03083App\bin\Debug\Task03083App.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\Task03083App\bin\Debug\Task03083App.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\Task03083App\obj\Debug\Task03083App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\Task03083App\obj\Debug\Task03083App.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\Task03083App\obj\Debug\Task03083App.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\Task03083App\obj\Debug\Task03083App.pdb

@@ -1,0 +1,7 @@
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\InheritanceApp\obj\Debug\InheritanceApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\InheritanceApp\obj\Debug\InheritanceApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\InheritanceApp\bin\Debug\InheritanceApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\InheritanceApp\bin\Debug\InheritanceApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\InheritanceApp\bin\Debug\InheritanceApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\InheritanceApp\obj\Debug\InheritanceApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\InheritanceApp\obj\Debug\InheritanceApp.pdb

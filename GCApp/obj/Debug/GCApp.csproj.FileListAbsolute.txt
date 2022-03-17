@@ -1,0 +1,8 @@
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\GCApp\bin\Debug\GCApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\GCApp\bin\Debug\GCApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\GCApp\bin\Debug\GCApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\GCApp\obj\Debug\GCApp.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\GCApp\obj\Debug\GCApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\GCApp\obj\Debug\GCApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\GCApp\obj\Debug\GCApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\GCApp\obj\Debug\GCApp.pdb

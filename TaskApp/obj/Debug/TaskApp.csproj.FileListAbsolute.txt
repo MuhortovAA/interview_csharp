@@ -1,0 +1,15 @@
+C:\Users\b00001174\source\repos\Project1\TaskApp\bin\Debug\TaskApp.exe.config
+C:\Users\b00001174\source\repos\Project1\TaskApp\bin\Debug\TaskApp.exe
+C:\Users\b00001174\source\repos\Project1\TaskApp\bin\Debug\TaskApp.pdb
+C:\Users\b00001174\source\repos\Project1\TaskApp\obj\Debug\TaskApp.csproj.CoreCompileInputs.cache
+C:\Users\b00001174\source\repos\Project1\TaskApp\obj\Debug\TaskApp.exe
+C:\Users\b00001174\source\repos\Project1\TaskApp\obj\Debug\TaskApp.pdb
+C:\Users\b00001174\source\repos\Project1\TaskApp\obj\Debug\TaskApp.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskApp\bin\Debug\TaskApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskApp\bin\Debug\TaskApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskApp\bin\Debug\TaskApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskApp\obj\Debug\TaskApp.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskApp\obj\Debug\TaskApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskApp\obj\Debug\TaskApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskApp\obj\Debug\TaskApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskApp\obj\Debug\TaskApp.pdb

@@ -1,0 +1,15 @@
+C:\Users\b00001174\source\repos\Project1\KontrApp\bin\Debug\KontrApp.exe.config
+C:\Users\b00001174\source\repos\Project1\KontrApp\bin\Debug\KontrApp.exe
+C:\Users\b00001174\source\repos\Project1\KontrApp\bin\Debug\KontrApp.pdb
+C:\Users\b00001174\source\repos\Project1\KontrApp\obj\Debug\KontrApp.csproj.AssemblyReference.cache
+C:\Users\b00001174\source\repos\Project1\KontrApp\obj\Debug\KontrApp.csproj.CoreCompileInputs.cache
+C:\Users\b00001174\source\repos\Project1\KontrApp\obj\Debug\KontrApp.exe
+C:\Users\b00001174\source\repos\Project1\KontrApp\obj\Debug\KontrApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\KontrApp\bin\Debug\KontrApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\KontrApp\bin\Debug\KontrApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\KontrApp\bin\Debug\KontrApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\KontrApp\obj\Debug\KontrApp.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\KontrApp\obj\Debug\KontrApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\KontrApp\obj\Debug\KontrApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\KontrApp\obj\Debug\KontrApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\KontrApp\obj\Debug\KontrApp.pdb

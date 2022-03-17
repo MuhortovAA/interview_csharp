@@ -1,0 +1,13 @@
+C:\Users\b00001174\source\repos\Project1\ArrayApp\bin\Debug\ArrayApp.exe.config
+C:\Users\b00001174\source\repos\Project1\ArrayApp\bin\Debug\ArrayApp.exe
+C:\Users\b00001174\source\repos\Project1\ArrayApp\bin\Debug\ArrayApp.pdb
+C:\Users\b00001174\source\repos\Project1\ArrayApp\obj\Debug\ArrayApp.csproj.CoreCompileInputs.cache
+C:\Users\b00001174\source\repos\Project1\ArrayApp\obj\Debug\ArrayApp.exe
+C:\Users\b00001174\source\repos\Project1\ArrayApp\obj\Debug\ArrayApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ArrayApp\bin\Debug\ArrayApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ArrayApp\bin\Debug\ArrayApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ArrayApp\bin\Debug\ArrayApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ArrayApp\obj\Debug\ArrayApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ArrayApp\obj\Debug\ArrayApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ArrayApp\obj\Debug\ArrayApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ArrayApp\obj\Debug\ArrayApp.pdb

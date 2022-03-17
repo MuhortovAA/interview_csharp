@@ -1,0 +1,13 @@
+C:\Users\b00001174\source\repos\Project1\RefApp\bin\Debug\RefApp.exe.config
+C:\Users\b00001174\source\repos\Project1\RefApp\bin\Debug\RefApp.exe
+C:\Users\b00001174\source\repos\Project1\RefApp\bin\Debug\RefApp.pdb
+C:\Users\b00001174\source\repos\Project1\RefApp\obj\Debug\RefApp.csproj.CoreCompileInputs.cache
+C:\Users\b00001174\source\repos\Project1\RefApp\obj\Debug\RefApp.exe
+C:\Users\b00001174\source\repos\Project1\RefApp\obj\Debug\RefApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\RefApp\bin\Debug\RefApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\RefApp\bin\Debug\RefApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\RefApp\bin\Debug\RefApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\RefApp\obj\Debug\RefApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\RefApp\obj\Debug\RefApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\RefApp\obj\Debug\RefApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\RefApp\obj\Debug\RefApp.pdb

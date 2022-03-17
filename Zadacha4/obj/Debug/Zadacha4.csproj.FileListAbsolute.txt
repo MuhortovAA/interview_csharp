@@ -1,0 +1,13 @@
+C:\Users\b00001174\source\repos\Project1\Zadacha4\bin\Debug\Zadacha4.exe.config
+C:\Users\b00001174\source\repos\Project1\Zadacha4\bin\Debug\Zadacha4.exe
+C:\Users\b00001174\source\repos\Project1\Zadacha4\bin\Debug\Zadacha4.pdb
+C:\Users\b00001174\source\repos\Project1\Zadacha4\obj\Debug\Zadacha4.csproj.CoreCompileInputs.cache
+C:\Users\b00001174\source\repos\Project1\Zadacha4\obj\Debug\Zadacha4.exe
+C:\Users\b00001174\source\repos\Project1\Zadacha4\obj\Debug\Zadacha4.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\Zadacha4\bin\Debug\Zadacha4.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\Zadacha4\bin\Debug\Zadacha4.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\Zadacha4\bin\Debug\Zadacha4.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\Zadacha4\obj\Debug\Zadacha4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\Zadacha4\obj\Debug\Zadacha4.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\Zadacha4\obj\Debug\Zadacha4.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\Zadacha4\obj\Debug\Zadacha4.pdb

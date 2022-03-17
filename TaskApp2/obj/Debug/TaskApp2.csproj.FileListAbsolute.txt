@@ -1,0 +1,8 @@
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskApp2\bin\Debug\TaskApp2.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskApp2\bin\Debug\TaskApp2.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskApp2\bin\Debug\TaskApp2.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskApp2\obj\Debug\TaskApp2.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskApp2\obj\Debug\TaskApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskApp2\obj\Debug\TaskApp2.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskApp2\obj\Debug\TaskApp2.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskApp2\obj\Debug\TaskApp2.pdb
