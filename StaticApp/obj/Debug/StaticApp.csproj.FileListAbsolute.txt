@@ -11,3 +11,9 @@ C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\StaticApp\obj\Debug\StaticAp
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\StaticApp\obj\Debug\StaticApp.csproj.CoreCompileInputs.cache
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\StaticApp\obj\Debug\StaticApp.exe
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\StaticApp\obj\Debug\StaticApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\StaticApp\bin\Debug\StaticApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\StaticApp\bin\Debug\StaticApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\StaticApp\bin\Debug\StaticApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\StaticApp\obj\Debug\StaticApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\StaticApp\obj\Debug\StaticApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\StaticApp\obj\Debug\StaticApp.pdb

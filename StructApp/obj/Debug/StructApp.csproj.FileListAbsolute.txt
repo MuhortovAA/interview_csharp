@@ -13,3 +13,10 @@ C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\StructApp\obj\Debug\StructAp
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\StructApp\obj\Debug\StructApp.csproj.CoreCompileInputs.cache
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\StructApp\obj\Debug\StructApp.exe
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\StructApp\obj\Debug\StructApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\StructApp\bin\Debug\StructApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\StructApp\bin\Debug\StructApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\StructApp\bin\Debug\StructApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\StructApp\obj\Debug\StructApp.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\StructApp\obj\Debug\StructApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\StructApp\obj\Debug\StructApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\StructApp\obj\Debug\StructApp.pdb

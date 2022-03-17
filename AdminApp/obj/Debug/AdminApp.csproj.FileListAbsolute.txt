@@ -23,3 +23,15 @@ C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\AdminApp\obj\Debug\AdminApp.
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\AdminApp\obj\Debug\AdminApp.csproj.CopyComplete
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\AdminApp\obj\Debug\AdminApp.exe
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\AdminApp\obj\Debug\AdminApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\AdminApp\bin\Debug\AdminApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\AdminApp\bin\Debug\AdminApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\AdminApp\bin\Debug\AdminApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\AdminApp\bin\Debug\EntityFramework.dll
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\AdminApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\AdminApp\bin\Debug\EntityFramework.xml
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\AdminApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\AdminApp\obj\Debug\AdminApp.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\AdminApp\obj\Debug\AdminApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\AdminApp\obj\Debug\AdminApp.csproj.CopyComplete
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\AdminApp\obj\Debug\AdminApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\AdminApp\obj\Debug\AdminApp.pdb

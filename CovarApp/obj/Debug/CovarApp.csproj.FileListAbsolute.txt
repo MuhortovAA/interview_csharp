@@ -1,0 +1,7 @@
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\CovarApp\bin\Debug\CovarApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\CovarApp\bin\Debug\CovarApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\CovarApp\bin\Debug\CovarApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\CovarApp\obj\Debug\CovarApp.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\CovarApp\obj\Debug\CovarApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\CovarApp\obj\Debug\CovarApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\CovarApp\obj\Debug\CovarApp.pdb

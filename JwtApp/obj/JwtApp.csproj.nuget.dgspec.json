@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\Project1\\JwtApp\\JwtApp.csproj": {}
+    "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\interview_csharp\\JwtApp\\JwtApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\Project1\\JwtApp\\JwtApp.csproj": {
+    "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\interview_csharp\\JwtApp\\JwtApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\Project1\\JwtApp\\JwtApp.csproj",
+        "projectUniqueName": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\interview_csharp\\JwtApp\\JwtApp.csproj",
         "projectName": "JwtApp",
-        "projectPath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\Project1\\JwtApp\\JwtApp.csproj",
+        "projectPath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\interview_csharp\\JwtApp\\JwtApp.csproj",
         "packagesPath": "C:\\Users\\Aliaksandr_Mukhortau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\Project1\\JwtApp\\obj\\",
+        "outputPath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\interview_csharp\\JwtApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aliaksandr_Mukhortau\\AppData\\Roaming\\NuGet\\NuGet.Config",

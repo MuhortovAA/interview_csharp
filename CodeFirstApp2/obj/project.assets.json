@@ -1448,11 +1448,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\Project1\\CodeFirstApp2\\CodeFirstApp2.csproj",
+      "projectUniqueName": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\interview_csharp\\CodeFirstApp2\\CodeFirstApp2.csproj",
       "projectName": "CodeFirstApp2",
-      "projectPath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\Project1\\CodeFirstApp2\\CodeFirstApp2.csproj",
+      "projectPath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\interview_csharp\\CodeFirstApp2\\CodeFirstApp2.csproj",
       "packagesPath": "C:\\Users\\Aliaksandr_Mukhortau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\Project1\\CodeFirstApp2\\obj\\",
+      "outputPath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\interview_csharp\\CodeFirstApp2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aliaksandr_Mukhortau\\AppData\\Roaming\\NuGet\\NuGet.Config",

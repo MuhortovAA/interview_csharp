@@ -11,3 +11,9 @@ C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\Zadacha4\obj\Debug\Zadacha4.
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\Zadacha4\obj\Debug\Zadacha4.csproj.CoreCompileInputs.cache
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\Zadacha4\obj\Debug\Zadacha4.exe
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\Zadacha4\obj\Debug\Zadacha4.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\Zadacha4\bin\Debug\Zadacha4.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\Zadacha4\bin\Debug\Zadacha4.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\Zadacha4\bin\Debug\Zadacha4.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\Zadacha4\obj\Debug\Zadacha4.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\Zadacha4\obj\Debug\Zadacha4.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\Zadacha4\obj\Debug\Zadacha4.pdb

@@ -13,3 +13,10 @@ C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\profweb1\obj\Debug\profweb1.
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\profweb1\obj\Debug\profweb1.csproj.CoreCompileInputs.cache
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\profweb1\obj\Debug\profweb1.exe
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\profweb1\obj\Debug\profweb1.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\profweb1\bin\Debug\profweb1.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\profweb1\bin\Debug\profweb1.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\profweb1\bin\Debug\profweb1.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\profweb1\obj\Debug\profweb1.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\profweb1\obj\Debug\profweb1.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\profweb1\obj\Debug\profweb1.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\profweb1\obj\Debug\profweb1.pdb

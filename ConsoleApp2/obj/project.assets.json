@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\Project1\\ConsoleApp2\\ConsoleApp2.csproj",
+      "projectUniqueName": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\interview_csharp\\ConsoleApp2\\ConsoleApp2.csproj",
       "projectName": "ConsoleApp2",
-      "projectPath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\Project1\\ConsoleApp2\\ConsoleApp2.csproj",
+      "projectPath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\interview_csharp\\ConsoleApp2\\ConsoleApp2.csproj",
       "packagesPath": "C:\\Users\\Aliaksandr_Mukhortau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\Project1\\ConsoleApp2\\obj\\",
+      "outputPath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\interview_csharp\\ConsoleApp2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aliaksandr_Mukhortau\\AppData\\Roaming\\NuGet\\NuGet.Config",

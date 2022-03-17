@@ -13,3 +13,10 @@ C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ThreadApp\obj\Debug\ThreadAp
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ThreadApp\obj\Debug\ThreadApp.csproj.CoreCompileInputs.cache
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ThreadApp\obj\Debug\ThreadApp.exe
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ThreadApp\obj\Debug\ThreadApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ThreadApp\bin\Debug\ThreadApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ThreadApp\bin\Debug\ThreadApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ThreadApp\bin\Debug\ThreadApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ThreadApp\obj\Debug\ThreadApp.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ThreadApp\obj\Debug\ThreadApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ThreadApp\obj\Debug\ThreadApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ThreadApp\obj\Debug\ThreadApp.pdb

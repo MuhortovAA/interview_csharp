@@ -5997,11 +5997,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\Project1\\xUnitApp.Test\\xUnitApp.Test.csproj",
+      "projectUniqueName": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\interview_csharp\\xUnitApp.Test\\xUnitApp.Test.csproj",
       "projectName": "xUnitApp.Test",
-      "projectPath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\Project1\\xUnitApp.Test\\xUnitApp.Test.csproj",
+      "projectPath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\interview_csharp\\xUnitApp.Test\\xUnitApp.Test.csproj",
       "packagesPath": "C:\\Users\\Aliaksandr_Mukhortau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\Project1\\xUnitApp.Test\\obj\\",
+      "outputPath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\interview_csharp\\xUnitApp.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aliaksandr_Mukhortau\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6018,8 +6018,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\Project1\\xUnitAppDll\\xUnitAppDll.csproj": {
-              "projectPath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\Project1\\xUnitAppDll\\xUnitAppDll.csproj"
+            "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\interview_csharp\\xUnitAppDll\\xUnitAppDll.csproj": {
+              "projectPath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\interview_csharp\\xUnitAppDll\\xUnitAppDll.csproj"
             }
           }
         }

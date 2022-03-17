@@ -12,3 +12,10 @@ C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\StrategyApp\obj\Debug\Strate
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\StrategyApp\obj\Debug\StrategyApp.csproj.CoreCompileInputs.cache
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\StrategyApp\obj\Debug\StrategyApp.exe
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\StrategyApp\obj\Debug\StrategyApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\StrategyApp\bin\Debug\StrategyApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\StrategyApp\bin\Debug\StrategyApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\StrategyApp\bin\Debug\StrategyApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\StrategyApp\obj\Debug\StrategyApp.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\StrategyApp\obj\Debug\StrategyApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\StrategyApp\obj\Debug\StrategyApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\StrategyApp\obj\Debug\StrategyApp.pdb

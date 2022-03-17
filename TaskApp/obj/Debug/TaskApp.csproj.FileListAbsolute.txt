@@ -13,3 +13,10 @@ C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskApp\obj\Debug\TaskApp.cs
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskApp\obj\Debug\TaskApp.csproj.CoreCompileInputs.cache
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskApp\obj\Debug\TaskApp.exe
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\TaskApp\obj\Debug\TaskApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\TaskApp\bin\Debug\TaskApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\TaskApp\bin\Debug\TaskApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\TaskApp\bin\Debug\TaskApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\TaskApp\obj\Debug\TaskApp.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\TaskApp\obj\Debug\TaskApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\TaskApp\obj\Debug\TaskApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\TaskApp\obj\Debug\TaskApp.pdb

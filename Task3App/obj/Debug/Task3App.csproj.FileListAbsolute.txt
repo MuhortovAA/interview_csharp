@@ -13,3 +13,10 @@ C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\Task3App\obj\Debug\Task3App.
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\Task3App\obj\Debug\Task3App.csproj.CoreCompileInputs.cache
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\Task3App\obj\Debug\Task3App.exe
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\Task3App\obj\Debug\Task3App.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\Task3App\bin\Debug\Task3App.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\Task3App\bin\Debug\Task3App.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\Task3App\bin\Debug\Task3App.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\Task3App\obj\Debug\Task3App.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\Task3App\obj\Debug\Task3App.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\Task3App\obj\Debug\Task3App.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\Task3App\obj\Debug\Task3App.pdb

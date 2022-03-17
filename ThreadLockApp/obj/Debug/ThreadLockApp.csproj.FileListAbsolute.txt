@@ -13,3 +13,10 @@ C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ThreadLockApp\obj\Debug\Thre
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ThreadLockApp\obj\Debug\ThreadLockApp.csproj.CoreCompileInputs.cache
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ThreadLockApp\obj\Debug\ThreadLockApp.exe
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ThreadLockApp\obj\Debug\ThreadLockApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ThreadLockApp\bin\Debug\ThreadLockApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ThreadLockApp\bin\Debug\ThreadLockApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ThreadLockApp\bin\Debug\ThreadLockApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ThreadLockApp\obj\Debug\ThreadLockApp.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ThreadLockApp\obj\Debug\ThreadLockApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ThreadLockApp\obj\Debug\ThreadLockApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ThreadLockApp\obj\Debug\ThreadLockApp.pdb

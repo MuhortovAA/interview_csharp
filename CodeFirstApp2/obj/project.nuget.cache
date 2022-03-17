@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xVc6c7J6Tz2ZtGg109wcwTHaNAgoJ455UCMvTrv3aT3OcjVW+v3fucX3TBmEnu+1pwe8aooj40UOoy1/XEw18Q==",
+  "dgSpecHash": "rkbTwT2grkNJnhNMsahuAxBsWCl6rB/3pwEKsZzPd2lWnGgG9BsR+2Vjk/rGDU9Ugho3zqDFewc7fu8NvWmnmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\Project1\\CodeFirstApp2\\CodeFirstApp2.csproj",
+  "projectFilePath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\interview_csharp\\CodeFirstApp2\\CodeFirstApp2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aliaksandr_Mukhortau\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Aliaksandr_Mukhortau\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

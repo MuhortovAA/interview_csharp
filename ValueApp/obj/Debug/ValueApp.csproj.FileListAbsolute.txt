@@ -11,3 +11,10 @@ C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ValueApp\obj\Debug\ValueApp.
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ValueApp\obj\Debug\ValueApp.csproj.CoreCompileInputs.cache
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ValueApp\obj\Debug\ValueApp.exe
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ValueApp\obj\Debug\ValueApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ValueApp\bin\Debug\ValueApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ValueApp\bin\Debug\ValueApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ValueApp\bin\Debug\ValueApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ValueApp\obj\Debug\ValueApp.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ValueApp\obj\Debug\ValueApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ValueApp\obj\Debug\ValueApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ValueApp\obj\Debug\ValueApp.pdb

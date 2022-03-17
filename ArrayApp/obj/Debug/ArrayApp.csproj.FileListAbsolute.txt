@@ -11,3 +11,9 @@ C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ArrayApp\obj\Debug\ArrayApp.
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ArrayApp\obj\Debug\ArrayApp.csproj.CoreCompileInputs.cache
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ArrayApp\obj\Debug\ArrayApp.exe
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ArrayApp\obj\Debug\ArrayApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ArrayApp\bin\Debug\ArrayApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ArrayApp\bin\Debug\ArrayApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ArrayApp\bin\Debug\ArrayApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ArrayApp\obj\Debug\ArrayApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ArrayApp\obj\Debug\ArrayApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ArrayApp\obj\Debug\ArrayApp.pdb

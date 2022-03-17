@@ -1,0 +1,7 @@
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\DI_App\bin\Debug\DI_App.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\DI_App\bin\Debug\DI_App.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\DI_App\bin\Debug\DI_App.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\DI_App\obj\Debug\DI_App.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\DI_App\obj\Debug\DI_App.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\DI_App\obj\Debug\DI_App.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\DI_App\obj\Debug\DI_App.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\Project1\\TokenApp\\TokenApp.csproj": {}
+    "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\interview_csharp\\TokenApp\\TokenApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\Project1\\TokenApp\\TokenApp.csproj": {
+    "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\interview_csharp\\TokenApp\\TokenApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\Project1\\TokenApp\\TokenApp.csproj",
+        "projectUniqueName": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\interview_csharp\\TokenApp\\TokenApp.csproj",
         "projectName": "TokenApp",
-        "projectPath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\Project1\\TokenApp\\TokenApp.csproj",
+        "projectPath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\interview_csharp\\TokenApp\\TokenApp.csproj",
         "packagesPath": "C:\\Users\\Aliaksandr_Mukhortau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\Project1\\TokenApp\\obj\\",
+        "outputPath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\interview_csharp\\TokenApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aliaksandr_Mukhortau\\AppData\\Roaming\\NuGet\\NuGet.Config",

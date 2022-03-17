@@ -11,3 +11,9 @@ C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\LinqApp\obj\Debug\LinqApp.cs
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\LinqApp\obj\Debug\LinqApp.csproj.CoreCompileInputs.cache
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\LinqApp\obj\Debug\LinqApp.exe
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\LinqApp\obj\Debug\LinqApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\LinqApp\bin\Debug\LinqApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\LinqApp\bin\Debug\LinqApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\LinqApp\bin\Debug\LinqApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\LinqApp\obj\Debug\LinqApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\LinqApp\obj\Debug\LinqApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\LinqApp\obj\Debug\LinqApp.pdb

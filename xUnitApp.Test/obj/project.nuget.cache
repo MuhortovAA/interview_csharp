@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R/uRpNWwn7SkBsecwQzR8gyBF6AZNgHo7l4PIGXXXYbD3O30Uv9Caq1NGEjp4hp4wTpJi1r5cCjkMQ8ztoWDBA==",
+  "dgSpecHash": "Q8NWOYhTN36LUp3+ql6csb5+sH6iu0x9JbNMEzldmfVIHTD6foltJrW21Y8mYL5e9x0A0bMkxSvtMQ17XoaRgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\Project1\\xUnitApp.Test\\xUnitApp.Test.csproj",
+  "projectFilePath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\interview_csharp\\xUnitApp.Test\\xUnitApp.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aliaksandr_Mukhortau\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Aliaksandr_Mukhortau\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

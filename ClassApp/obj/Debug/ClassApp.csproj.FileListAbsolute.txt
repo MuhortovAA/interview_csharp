@@ -19,3 +19,13 @@ C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ClassApp\obj\Debug\ClassApp.
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ClassApp\obj\Debug\ClassApp.csproj.CopyComplete
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ClassApp\obj\Debug\ClassApp.exe
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ClassApp\obj\Debug\ClassApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ClassApp\bin\Debug\ClassApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ClassApp\bin\Debug\ClassApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ClassApp\bin\Debug\ClassApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ClassApp\bin\Debug\MyClassLibrary.dll
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ClassApp\bin\Debug\MyClassLibrary.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ClassApp\obj\Debug\ClassApp.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ClassApp\obj\Debug\ClassApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ClassApp\obj\Debug\ClassApp.csproj.CopyComplete
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ClassApp\obj\Debug\ClassApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ClassApp\obj\Debug\ClassApp.pdb

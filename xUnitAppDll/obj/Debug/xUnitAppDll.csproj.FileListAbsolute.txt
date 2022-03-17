@@ -13,3 +13,10 @@ C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\xUnitAppDll\obj\Debug\xUnitA
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\xUnitAppDll\obj\Debug\xUnitAppDll.csproj.CoreCompileInputs.cache
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\xUnitAppDll\obj\Debug\xUnitAppDll.exe
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\xUnitAppDll\obj\Debug\xUnitAppDll.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\xUnitAppDll\bin\Debug\xUnitAppDll.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\xUnitAppDll\bin\Debug\xUnitAppDll.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\xUnitAppDll\bin\Debug\xUnitAppDll.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\xUnitAppDll\obj\Debug\xUnitAppDll.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\xUnitAppDll\obj\Debug\xUnitAppDll.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\xUnitAppDll\obj\Debug\xUnitAppDll.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\xUnitAppDll\obj\Debug\xUnitAppDll.pdb

@@ -11,3 +11,10 @@ C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ConcurDicApp\obj\Debug\Concu
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ConcurDicApp\obj\Debug\ConcurDicApp.csproj.CoreCompileInputs.cache
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ConcurDicApp\obj\Debug\ConcurDicApp.exe
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\ConcurDicApp\obj\Debug\ConcurDicApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ConcurDicApp\bin\Debug\ConcurDicApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ConcurDicApp\bin\Debug\ConcurDicApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ConcurDicApp\bin\Debug\ConcurDicApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ConcurDicApp\obj\Debug\ConcurDicApp.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ConcurDicApp\obj\Debug\ConcurDicApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ConcurDicApp\obj\Debug\ConcurDicApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\ConcurDicApp\obj\Debug\ConcurDicApp.pdb

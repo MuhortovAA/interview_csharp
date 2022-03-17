@@ -11,3 +11,9 @@ C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\PropertiesApp\obj\Debug\Prop
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\PropertiesApp\obj\Debug\PropertiesApp.csproj.CoreCompileInputs.cache
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\PropertiesApp\obj\Debug\PropertiesApp.exe
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\PropertiesApp\obj\Debug\PropertiesApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\PropertiesApp\bin\Debug\PropertiesApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\PropertiesApp\bin\Debug\PropertiesApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\PropertiesApp\bin\Debug\PropertiesApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\PropertiesApp\obj\Debug\PropertiesApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\PropertiesApp\obj\Debug\PropertiesApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\PropertiesApp\obj\Debug\PropertiesApp.pdb

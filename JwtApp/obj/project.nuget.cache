@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NsfszcG5EUyVVBepZ4o0n6OMdP8JRIUl5mRV+Ol+pn3yssrS+ai+0KrFcZe850UGiLmbD/QLO3jvAUKCp4zSTA==",
+  "dgSpecHash": "tv/iheLdaP4tQpGDhG03aPibWTThKlaxVO2af/0DAXQo5WAZRJHk+OKym7p2aIvfQBmhMaeSAE7UrFMsrzx9/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\Project1\\JwtApp\\JwtApp.csproj",
+  "projectFilePath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\interview_csharp\\JwtApp\\JwtApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aliaksandr_Mukhortau\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.17\\microsoft.aspnetcore.authentication.jwtbearer.3.1.17.nupkg.sha512",
     "C:\\Users\\Aliaksandr_Mukhortau\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

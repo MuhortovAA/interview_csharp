@@ -11,3 +11,9 @@ C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\SingletonApp\obj\Debug\Singl
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\SingletonApp\obj\Debug\SingletonApp.csproj.CoreCompileInputs.cache
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\SingletonApp\obj\Debug\SingletonApp.exe
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\SingletonApp\obj\Debug\SingletonApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\SingletonApp\bin\Debug\SingletonApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\SingletonApp\bin\Debug\SingletonApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\SingletonApp\bin\Debug\SingletonApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\SingletonApp\obj\Debug\SingletonApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\SingletonApp\obj\Debug\SingletonApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\SingletonApp\obj\Debug\SingletonApp.pdb

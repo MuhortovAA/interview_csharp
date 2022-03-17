@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7a/74Ufkm8v8udePH52SM1Ni/GalevPbCLTTJrPAFfWXhTi3R7PLqmRDAcR0EwJ7CYWCqqCD9ZDURibKRyOgCg==",
+  "dgSpecHash": "bK3rYrQ6I54HSfpfCpSAXesyBcrQ6M2/kQX6FMS/1R+jmDd3bethGt+Spy8o5cL6ahpNMwNRIztZ5t5675Yjew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\Project1\\TokenApp\\TokenApp.csproj",
+  "projectFilePath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\interview_csharp\\TokenApp\\TokenApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aliaksandr_Mukhortau\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.9\\microsoft.aspnetcore.authentication.jwtbearer.5.0.9.nupkg.sha512",
     "C:\\Users\\Aliaksandr_Mukhortau\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

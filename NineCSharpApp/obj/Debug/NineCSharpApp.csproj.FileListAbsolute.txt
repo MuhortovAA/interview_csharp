@@ -11,3 +11,9 @@ C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\NineCSharpApp\obj\Debug\Nine
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\NineCSharpApp\obj\Debug\NineCSharpApp.csproj.CoreCompileInputs.cache
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\NineCSharpApp\obj\Debug\NineCSharpApp.exe
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\NineCSharpApp\obj\Debug\NineCSharpApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\NineCSharpApp\bin\Debug\NineCSharpApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\NineCSharpApp\bin\Debug\NineCSharpApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\NineCSharpApp\bin\Debug\NineCSharpApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\NineCSharpApp\obj\Debug\NineCSharpApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\NineCSharpApp\obj\Debug\NineCSharpApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\NineCSharpApp\obj\Debug\NineCSharpApp.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CyodJMfRe5WUmdPQ6kDI1sIN8UjlwhCBqwHqIgx1B+8KB/6B7y0hQ2/uqFhiO0pXRmRhFgZndeyc7JrdaYTfdg==",
+  "dgSpecHash": "zmEuA0KJI2JmJAUdZYLNDy6pqK4Xs4mP1X+NbrlWrj6xx66CAmGuTgcPn1fNwWF84UmRLq+/nVviQX4QjvrnhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\Project1\\WebApplicationJWT\\WebApplicationJWT.csproj",
+  "projectFilePath": "C:\\Users\\Aliaksandr_Mukhortau\\source\\repos\\interview_csharp\\WebApplicationJWT\\WebApplicationJWT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aliaksandr_Mukhortau\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.22\\microsoft.aspnetcore.authentication.jwtbearer.3.1.22.nupkg.sha512",
     "C:\\Users\\Aliaksandr_Mukhortau\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

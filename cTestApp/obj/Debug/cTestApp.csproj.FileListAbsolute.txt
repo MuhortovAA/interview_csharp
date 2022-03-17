@@ -6,3 +6,10 @@ C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\cTestApp\obj\Debug\cTestApp.
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\cTestApp\obj\Debug\cTestApp.exe
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\cTestApp\obj\Debug\cTestApp.pdb
 C:\Users\Aliaksandr_Mukhortau\source\repos\Project1\cTestApp\obj\Debug\cTestApp.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\cTestApp\bin\Debug\cTestApp.exe.config
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\cTestApp\bin\Debug\cTestApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\cTestApp\bin\Debug\cTestApp.pdb
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\cTestApp\obj\Debug\cTestApp.csproj.AssemblyReference.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\cTestApp\obj\Debug\cTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\cTestApp\obj\Debug\cTestApp.exe
+C:\Users\Aliaksandr_Mukhortau\source\repos\interview_csharp\cTestApp\obj\Debug\cTestApp.pdb
