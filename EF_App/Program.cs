@@ -32,7 +32,7 @@ namespace EF_App
 
                 context.Orders.Add(order);
 
-                context.SaveChanges();
+                //context.SaveChanges();
 
                 //// пересоздадим базу данных
                 //SprDepartment spr1 = new SprDepartment { Name = "Personal" };
@@ -74,7 +74,7 @@ namespace EF_App
 
                 //List<Customer> customers = context.Customers.Include(c => c.Orders).ToList();
 
-                //// Получить все их заказы
+                // Получить все их заказы
                 //List<Order> orders = customers.SelectMany(c => c.Orders)
                 //    // Запрос к базе данных не выполняется,
                 //    // т.к. данные уже были извлечены 
